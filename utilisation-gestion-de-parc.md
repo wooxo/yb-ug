@@ -1,28 +1,32 @@
 # Utilisation gestion de parc  \(WIP\)
 
+ La gestion de parc s'effectue dans l'onglet "Gestion de parc".
+
 ![](.gitbook/assets/onglet-gestionnaire-de-parc.PNG)
 
-Dans l'onglet "Gestionnaire de parc", on retrouve des informations détaillées sur tous le parc informatique associés à une licence.
+L'écran affiche les informations détaillées sur tout le parc informatique associé à une licence.
 
 ![](.gitbook/assets/gestion-de-parc-pc.PNG)
 
-En sélectionnant un poste dans la liste, il est possible de voir l'ensemble de ses composants.
+En sélectionnant un poste dans la liste, il est possible de voir l'ensemble de ses 
+
+* composants \(processeur, carte mère, carte graphique...\)
 
 ![](.gitbook/assets/gestion-de-parc-materiel.PNG)
 
-Il est également possible de voir l'ensemble des logiciels installés sur le poste.
+* logiciels installés
 
 ![](.gitbook/assets/gestion-de-parc-logiciel.PNG)
 
-Les informations sur les disques et partitions sont également disponibles.
+* des informations sur les disques et partitions
 
 ![](.gitbook/assets/gestion-de-parc-disque.PNG)
 
-Il est possible d'utiliser des filtres d'affichage, utiles notamment pour les parcs de taille importante.
+Des filtres de recherche sont disponibles afiin de limiter l'affichage des informations. Ils peuvent être très utiles notamment pour les parcs de taille importante.
 
 ![](.gitbook/assets/gestion-de-parc-filtres.png)
 
-Exemple de filtres: Afficher uniquement les postes fixes de plus d'1To de capacité.
+Exemple de filtres : Afficher uniquement les postes fixes de plus d'1To de capacité.
 
 ![](.gitbook/assets/gestion-de-parc-filtres-exemple.PNG)
 

@@ -1,6 +1,8 @@
 # Restauration OneKeyRestore
 
-Pour restaurer un volume, il suffit de disposer d'un poste informatique ainsi que de la clé usb OneKeyRestore ou son ISO sur n'importe quel support bootable. La procédure pour lancer la restauration d'un volume est très simple.
+Pour restaurer un volume, il faut disposer d'un poste informatique ainsi que de la clé USB OneKeyRestore ou son ISO sur n'importe quel support bootable.
+
+#### _Pour lancer la restauration d'un volume_
 
 1. Booter sur la clé OneKey Restore \(ou l'ISO\).
 
@@ -14,7 +16,7 @@ Pour restaurer un volume, il suffit de disposer d'un poste informatique ainsi qu
 
 ![](../.gitbook/assets/onekey-ip-3.PNG)
 
-4. Entrer ensuite ses identifiants et mot de passe
+4. Entrer ses identifiants et mot de passe
 
 ![](../.gitbook/assets/onekey-login-4.PNG)
 
