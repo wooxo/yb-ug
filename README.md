@@ -6,14 +6,13 @@ description: >-
 
 # Manuel d'utilisation
 
-YooBackup est une solution de sauvegarde éditée par la société Wooxo.
+YooBackup est une solution de sauvegarde éditée au sein du groupe Wooxo-Atempo, disponible:
 
-Pour toute question ou problématique, n'hésitez pas à contacter le support Wooxo:
+* Chez Wooxo, au format box \(plus d'infos: [https://www.wooxo.fr/Materiel-de-sauvegarde](https://www.wooxo.fr/Materiel-de-sauvegarde)\)
+  * Box AllRoad de 1 à 28To
+  * Box Classic de 1 à 14To
+* Chez Atempo, au format serveur rackable \(plus d'infos: [https://www.atempo.com/fr/produits/appliances-protection-backstone/](https://www.atempo.com/fr/produits/appliances-protection-backstone/)\)
+  * Serveur rackable de 2 à 4u de 12 à 240To 
 
-* Par téléphone : 0 811 140 160
-* Par sms 06 44 60 11 60
-* Par mail : support@wooxo.fr
-* Par chat : depuis le site web [www.wooxo.fr](http://www.wooxo.fr/) ou depuis YooPortal
-* Via un ticket dans YooPortal directement
-* Via RDV : à réserver dans YooPortal ou par téléphone
+
 

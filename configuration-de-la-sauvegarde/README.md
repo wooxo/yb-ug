@@ -1,2 +1,2 @@
-# Configuration de la sauvegarde  \(WIP\)
+# Configuration de la sauvegarde
 

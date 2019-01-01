@@ -4,8 +4,8 @@
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-* Windows XP SP3 jusqu'à Windows 10
-* Windows Server 2003 jusqu'à Windows Server 2016
+* Windows Seven jusqu'à Windows 10
+* Windows Server 2008 R2 jusqu'à Windows Server 2016
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
@@ -24,7 +24,7 @@
 ![](../../.gitbook/assets/image%20%288%29.png)
 
 * Windows Seven jusqu'à Windows 10
-* Windows Server 2008 jusqu'à Windows Server 2016
+* Windows Server 2008 R2 jusqu'à Windows Server 2016
 
 ## Sauvegarde hyperviseur
 

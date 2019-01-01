@@ -1,10 +1,10 @@
 ---
-description: Spécifications techniques des différentes appliances.
+description: Spécifications techniques des différentes box.
 ---
 
 # Spécifications techniques
 
-## Appliances AllRoad
+## Box Wooxo AllRoad
 
 <table>
   <thead>
@@ -36,26 +36,26 @@ description: Spécifications techniques des différentes appliances.
     <tr>
       <td style="text-align:left"><b>Mémoire vive</b>
       </td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Go DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Réseau</b>
       </td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -142,7 +142,7 @@ description: Spécifications techniques des différentes appliances.
       <td style="text-align:center">451 x 255 x 317 mm 23 kg</td>
     </tr>
   </tbody>
-</table>## Appliances AllRoad Premium
+</table>## Box Wooxo AllRoad Premium
 
 <table>
   <thead>
@@ -166,18 +166,18 @@ description: Spécifications techniques des différentes appliances.
     <tr>
       <td style="text-align:left"><b>Mémoire vive</b>
       </td>
-      <td style="text-align:center">16 Go DDR4 3000 Mhz</td>
-      <td style="text-align:center">16 Go DDR4 3000 Mhz</td>
-      <td style="text-align:center">16 Go DDR4 3000 Mhz</td>
-      <td style="text-align:center">16 Go DDR4 3000 Mhz</td>
+      <td style="text-align:center">16 Go DDR4</td>
+      <td style="text-align:center">16 Go DDR4</td>
+      <td style="text-align:center">16 Go DDR4</td>
+      <td style="text-align:center">16 Go DDR4</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Réseau</b>
       </td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -252,7 +252,7 @@ description: Spécifications techniques des différentes appliances.
       </td>
     </tr>
   </tbody>
-</table>## Appliances Classic
+</table>## Box Wooxo Classic
 
 <table>
   <thead>
@@ -284,26 +284,26 @@ description: Spécifications techniques des différentes appliances.
     <tr>
       <td style="text-align:left"><b>Mémoire vive</b>
       </td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
-      <td style="text-align:center">4 Go DDR3 1333 Mhz</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Réseau</b>
       </td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
-      <td style="text-align:center">2 ports 10 / 100/ 1000</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -392,5 +392,127 @@ description: Spécifications techniques des différentes appliances.
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
-</table>​
+</table>## ​Appliances Atempo Backstone
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Modèle</th>
+      <th style="text-align:center">Backstone 12To LTO</th>
+      <th style="text-align:center">Backstone 12To RDX</th>
+      <th style="text-align:center">Backstone 24To</th>
+      <th style="text-align:center">Backstone 36To</th>
+      <th style="text-align:center">Backstone 60To</th>
+      <th style="text-align:center">Backstone 80To</th>
+      <th style="text-align:center">Backstone 120To</th>
+      <th style="text-align:center">Backstone 240To</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Processeur</b>
+      </td>
+      <td style="text-align:center">Intel Xeon 2630v3</td>
+      <td style="text-align:center">Intel Xeon 2630v3</td>
+      <td style="text-align:center">Intel Xeon 2630v3</td>
+      <td style="text-align:center">2x Intel Xeon 2630v3</td>
+      <td style="text-align:center">2x Intel Xeon 2630v3</td>
+      <td style="text-align:center">2x Intel Xeon 2630v3</td>
+      <td style="text-align:center">2x Intel Xeon 2630v3</td>
+      <td style="text-align:center">2x Intel Xeon 2630v3</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Mémoire vive</b>
+      </td>
+      <td style="text-align:center">16Go DDR4 ECC</td>
+      <td style="text-align:center">16Go DDR4 ECC</td>
+      <td style="text-align:center">16Go DDR4 ECC</td>
+      <td style="text-align:center">32Go DDR4 ECC</td>
+      <td style="text-align:center">32Go DDR4 ECC</td>
+      <td style="text-align:center">64Go DDR4 ECC</td>
+      <td style="text-align:center">64Go DDR4 ECC</td>
+      <td style="text-align:center">64Go DDR4 ECC</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Réseau</b>
+      </td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 10GbE 2x 1GbE</td>
+      <td style="text-align:center">2x 10GbE 2x 1GbE</td>
+      <td style="text-align:center">2x 10GbE 2x 1GbE</td>
+      <td style="text-align:center">2x 10GbE 2x 1GbE</td>
+      <td style="text-align:center">2x 10GbE 2x 1GbE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Volume système</b>
+      </td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
+        <br />2x480 Go SSD</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Volume données</b>
+      </td>
+      <td style="text-align:center">RAID5
+        <br />3x6To SATA</td>
+      <td style="text-align:center">RAID5
+        <br />3x6To SATA</td>
+      <td style="text-align:center">RAID6
+        <br />6x6To SAS</td>
+      <td style="text-align:center">RAID6
+        <br />8x6To SAS</td>
+      <td style="text-align:center">RAID6
+        <br />12x6To SAS</td>
+      <td style="text-align:center">RAID6
+        <br />12x8To SAS</td>
+      <td style="text-align:center">RAID6
+        <br />12x12To SAS</td>
+      <td style="text-align:center">RAID6
+        <br />24x12To SAS</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <p><b>Bande</b>
+        </p>
+        <p><b>Média</b>
+        </p>
+      </td>
+      <td style="text-align:center">Lecteur interne LTO7</td>
+      <td style="text-align:center">Lecteur interne RDX</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Connecteur SAS externe</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Format</b>
+      </td>
+      <td style="text-align:center">Rackable 3U</td>
+      <td style="text-align:center">Rackable 3U</td>
+      <td style="text-align:center">Rackable 2U</td>
+      <td style="text-align:center">Rackable 2U</td>
+      <td style="text-align:center">Rackable 2U</td>
+      <td style="text-align:center">Rackable 2U</td>
+      <td style="text-align:center">Rackable 2U</td>
+      <td style="text-align:center">Rackable 4U</td>
+    </tr>
+  </tbody>
+</table>
 

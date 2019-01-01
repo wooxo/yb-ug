@@ -1,4 +1,4 @@
-# Utilisation gestion de parc  \(WIP\)
+# Utilisation gestion de parc
 
  La gestion de parc s'effectue dans l'onglet "Gestion de parc".
 

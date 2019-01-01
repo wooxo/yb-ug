@@ -1,2 +1,2 @@
-# Administration  \(WIP\)
+# Administration
 

@@ -1,2 +1,2 @@
-# Restauration  \(WIP\)
+# Restauration
 

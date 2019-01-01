@@ -1,4 +1,4 @@
-# Utilisation serveur de fichiers  \(WIP\)
+# Utilisation serveur de fichiers
 
  L'utilisation du serveur de fichiers s'effectue dans l'onglet "Serveur de fichiers".
 

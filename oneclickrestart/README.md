@@ -1,2 +1,2 @@
-# OneClickRestart \(WIP\)
+# OneClickRestart
 
