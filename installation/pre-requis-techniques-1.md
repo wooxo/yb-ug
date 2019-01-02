@@ -74,6 +74,18 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       </td>
       <td style="text-align:left">Serveur mise à jour YooBackup</td>
     </tr>
+    <tr>
+      <td style="text-align:left">167.114.251.186</td>
+      <td style="text-align:left">
+        <p>443 ou</p>
+        <p>80 ou</p>
+        <p>21 ou</p>
+        <p>123 ou</p>
+        <p>1720 ou</p>
+        <p>1723</p>
+      </td>
+      <td style="text-align:left">Serveur mise à jour YooBackup secondaire</td>
+    </tr>
   </tbody>
 </table>### Communication appliance -&gt; agent de sauvegarde
 
