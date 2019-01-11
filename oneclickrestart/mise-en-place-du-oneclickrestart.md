@@ -8,7 +8,15 @@ Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le j
 
 A présent, il nous reste simplement à cliquer sur "Activer le OneClick Restart".
 
+* Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer 
+* Cliquez sur l'onglet OneClickRestart
+* Cliquer sur "Activer le OneClickRestart".
+
 ![](../.gitbook/assets/capture-de-cran-2019-01-01-a-19.44.28%20%281%29.png)
 
+{% hint style="info" %}
 Si une sauvegarde a déjà eu lieu, le système déclenchera une consolidation instantanément sinon il attendra la fin de la prochaine sauvegarde.
+{% endhint %}
+
+
 

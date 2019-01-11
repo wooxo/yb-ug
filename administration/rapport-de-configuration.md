@@ -12,9 +12,9 @@ Ce rapport est utilisé pour résumer et garder une trace du paramétrage effect
 Le rapport de gestion résume tout le paramétrage effectué :
 
 * Paramétrage général 
-  * configuration du réseau
-  * administration générale : identifiant et contact de l'administrateur
-  * configuration logicielle : version
+  * Configuration du réseau
+  * Administration générale : identifiant et contact de l'administrateur
+  * Configuration logicielle : version
 * Résumé du parc de sauvegarde \(liste des machines composant le parc\)
 * Détails des agents 
   * Informations relatives à la machine \(nom, adresse IP,  système d’exploitation\)

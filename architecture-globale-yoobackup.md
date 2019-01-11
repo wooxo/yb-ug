@@ -31,7 +31,7 @@ Chaque agent communique avec l'appliance à travers un tunnel sécurisé.
 
 L'ensemble des données sont cryptées à la source à l'aide de la clé propre à l'appliance.
 
-Cette clé et l'ensemble des configurations propres à l'appliance sont sauvegardées de manière régulière et sécurisée vers la seconde appliance ou l'infrastructure Wooxo pour permettre le fonctionnement de la continuité de sauvegarde et également permettre une reprise en cas de sinistre majeur sur l'appliance.
+Cette clé et l'ensemble des configurations propres à l'appliance sont sauvegardées de manière régulière et sécurisées vers la seconde appliance ou l'infrastructure Wooxo pour permettre le fonctionnement de la continuité de sauvegarde et également permettre une reprise en cas de sinistre majeur sur l'appliance.
 
 L'ensemble des données stockées physiquement sur l'appliance sont cryptées, compressés et ventilées via le système de gestion des versions, et donc inutilisables en l'état en cas d'extraction ou de manipulation physique sur l'appliance.
 

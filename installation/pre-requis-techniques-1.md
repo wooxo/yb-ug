@@ -39,7 +39,10 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       <td style="text-align:left">Activation des licences</td>
     </tr>
     <tr>
-      <td style="text-align:left">46.18.210.131</td>
+      <td style="text-align:left">
+        <p>46.18.210.131 (serveur décommissionné q1 2019)</p>
+        <p>167.114.245.232 (nouvelle ip)</p>
+      </td>
       <td style="text-align:left">443</td>
       <td style="text-align:left">Monitoring logiciel</td>
     </tr>

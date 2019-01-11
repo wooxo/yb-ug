@@ -13,7 +13,7 @@ La procédure de restauration d'une machine virtuelle est la même que celle uti
 ![](../.gitbook/assets/sauvegarde_virtuelle%20%281%29.gif)
 
 {% hint style="info" %}
-Des filtres d'affichage sont présents dans le panneau latéral droit afin de simplifier la recherche d'éléments à restaurer. Il est ainsi possible d'afficher une ou plusieurs versions de chaque élément, ainsi que d'afficher ou exclure des éléments contenant certains mots clé ou ayant certaines extensions.
+Des filtres d'affichage sont présents dans le panneau latéral droit afin de simplifier la recherche d'éléments à restaurer. Il est ainsi possible d'afficher une ou plusieurs versions de chaque élément, ainsi que d'afficher ou exclure des éléments contenant certains mots clés ou ayant certaines extensions.
 {% endhint %}
 
 ![](../.gitbook/assets/restauration-filtres.PNG)
