@@ -28,7 +28,7 @@
   * [Restauration de machine virtuelle VMware](restauration/restauration-de-machine-virtuelle-vmware.md)
 * [OneClickRestart](oneclickrestart/README.md)
   * [Concept](oneclickrestart/concept.md)
-  * [Mise en place du OneClickRestart](oneclickrestart/mise-en-place-du-oneclickrestart.md)
+  * [Mise en place du OneClick Restart](oneclickrestart/mise-en-place-du-oneclickrestart.md)
   * [Redémarrage d'une machine](oneclickrestart/redemarrage-dune-machine.md)
 * [Utilisation gestion de parc](utilisation-gestion-de-parc.md)
 * [Utilisation serveur de fichiers](utilisation-serveur-de-fichiers.md)

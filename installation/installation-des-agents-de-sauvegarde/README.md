@@ -6,7 +6,7 @@ Pour télécharger l'agent adéquat, il faut dans un premier temps se rendre sur
 
 ![](../../.gitbook/assets/log-in.PNG)
 
-Il  faudra ensuite se rendre dans l'onglet "Téléchargement"
+Il faudra ensuite se rendre dans l'onglet "Téléchargement".
 
 ![](../../.gitbook/assets/onglet-telechargement.PNG)
 

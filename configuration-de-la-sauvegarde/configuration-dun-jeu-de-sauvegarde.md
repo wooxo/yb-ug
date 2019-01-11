@@ -53,7 +53,7 @@ Le paramétrage des filtres permet d'exclure ou d'inclure des catégories de fic
 
 ![](../.gitbook/assets/parametres_sauvegarde_filtres.gif)
 
-Certains filtres peuvent avoir été crées par défaut et apparaissent dans la colonne Disponible\(s\), il suffit alors d'utiliser les flèches pour les ajouter dans la colonne Actif\(s\). 
+Certains filtres peuvent avoir été créés par défaut et apparaissent dans la colonne Disponible\(s\), il suffit alors d'utiliser les flèches pour les ajouter dans la colonne Actif\(s\). 
 
 Vous pouvez également définir vos propres filtres en utilisant la partie basse de l'écran.
 
@@ -65,7 +65,7 @@ Vous pouvez également définir vos propres filtres en utilisant la partie basse
 
 4. Configurez les paramètres avancés
 
-Les paramètres avancés vont permettre si besoin d'écrire un ou des scripts à exécuter avant ou après la sauvegarde. Il peut s'agir, par exemple,  de script de vérification pré sauvegarde ou un script pour éteindre un poste informatique une fois la sauvegarde effectuée.
+Les paramètres avancés vont permettre si besoin d'écrire un ou des scripts à exécuter avant ou après la sauvegarde. Il peut s'agir, par exemple, de script de vérification pré sauvegarde ou un script pour éteindre un poste informatique une fois la sauvegarde effectuée.
 
 5. Sauvegarder le paramétrage.
 
@@ -75,7 +75,7 @@ La gestion des fichiers sauvegardés permet de restaurer des fichiers en fonctio
 
 ### Journaux
 
-Cet onglet ouvre le journal d'activité. La partie gauche permet l'application de filtre \(par exemple, la sélection d'une période, le type d'action,  ou de vue\). La partie droite affiche le résultat de la recherche.
+Cet onglet ouvre le journal d'activité. La partie gauche permet l'application de filtre \(par exemple, la sélection d'une période, le type d'action, ou de vue\). La partie droite affiche le résultat de la recherche.
 
 
 

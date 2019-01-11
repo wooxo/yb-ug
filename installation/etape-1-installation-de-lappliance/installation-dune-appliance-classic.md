@@ -34,11 +34,11 @@ Toutes les solutions possèdent deux ports réseau pouvant être utilisés pour 
 
 Le port par défaut est indiqué par un autocollant LAN si ce n'est pas le cas, il s'agit du port le plus proche du port d'alimentation.
 
-Une fois l'appliance raccordée physiquement au réseau du client, il va falloir la rendre accessible. Pour cela, 3 solutions:
+Une fois l'appliance raccordée physiquement au réseau du client, il va falloir la rendre accessible. Pour cela, 3 solutions :
 
 1. S'il y a un DHCP et la propagation des noms d'hôtes, la machine sera disponible sur le nom d'hôte "wooxo-desktop"
 2. Vous avez la possibilité d'utiliser WTool qui est un utilitaire créé par Wooxo \([téléchargeable ici](https://wooxo.fr/WTool)\) 
-3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant: config / mot de passe: config\)
+3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant : config / mot de passe: config\)
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 

@@ -14,7 +14,7 @@ S'il s'agit de la première fois que vous vous connectez à l'interface web YooB
 
 ## Etape 2 - Validation de la licence
 
-Le numéro de licence de la solution est disponible:
+Le numéro de licence de la solution est disponible :
 
 * Sur le bon de livraison associé à l'appliance
 * Dans YooPortal

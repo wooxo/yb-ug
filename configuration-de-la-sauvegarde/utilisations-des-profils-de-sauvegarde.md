@@ -1,6 +1,6 @@
 # Utilisations des profils de sauvegarde
 
-Un profil de sauvegarde peut être crée lorsque qu'une même stratégie de sauvegarde est souvent utilisée, ceci afin d'éviter de ressaisir le même paramétrage plusieurs fois. Ces profils sont utiles notamment dans le cas d'une stratégie semblable d'un jeu de sauvegarde à un autre. 
+Un profil de sauvegarde peut être créé lorsque qu'une même stratégie de sauvegarde est souvent utilisée, ceci afin d'éviter de ressaisir le même paramétrage plusieurs fois. Ces profils sont utiles notamment dans le cas d'une stratégie semblable d'un jeu de sauvegarde à un autre. 
 
 La création d'un profil s'effectue dans l'onglet "Sauvegarde".
 
@@ -18,7 +18,7 @@ La création d'un profil s'effectue dans l'onglet "Sauvegarde".
 ![](../.gitbook/assets/new_profil_sauvegarde.gif)
 
 {% hint style="info" %}
-Il est également possible de créer un nouveau profil directement à partir d'un jeu de sauvegarde en sélectionnant Nouveau profil de sauvegarde dans la liste déroulante de l'onglet paramétrage \(voir [Configuration d'un jeu de sauvegarde](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde) pour plus di'nformations\).
+Il est également possible de créer un nouveau profil directement à partir d'un jeu de sauvegarde en sélectionnant Nouveau profil de sauvegarde dans la liste déroulante de l'onglet paramétrage \(voir [Configuration d'un jeu de sauvegarde](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde) pour plus d'informations\).
 {% endhint %}
 
 #### _Appliquer un profil à un jeu de sauvegarde_

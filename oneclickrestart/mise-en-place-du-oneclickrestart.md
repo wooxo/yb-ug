@@ -1,12 +1,12 @@
-# Mise en place du OneClickRestart
+# Mise en place du OneClick Restart
 
-L'activation du OneClickRestart peut être faite à tout moment, pour cela il suffit de se rendre dans l'interface YooBackup, onglet sauvegarde.
+L'activation du OneClick Restart peut être faite à tout moment, pour cela il suffit de se rendre dans l'interface YooBackup, onglet sauvegarde.
 
 ![](../.gitbook/assets/onglet-sauvegarde%20%282%29.PNG)
 
-Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer et de vous rendre sur l'onglet OneClickRestart.
+Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer et de vous rendre sur l'onglet OneClick Restart.
 
-A présent, il nous reste simplement à cliquer sur "Activer le OneClickRestart".
+A présent, il nous reste simplement à cliquer sur "Activer le OneClick Restart".
 
 ![](../.gitbook/assets/capture-de-cran-2019-01-01-a-19.44.28%20%281%29.png)
 

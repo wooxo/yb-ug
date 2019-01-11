@@ -10,7 +10,7 @@ Une fois l'agent disponible, il suffit de le sélectionner:
 
 ![](../../.gitbook/assets/image%20%2830%29.png)
 
-De se rendre dans l'onglet "Partages distant" sur la droite:
+De se rendre dans l'onglet "Partages distant" sur la droite :
 
 ![](../../.gitbook/assets/image%20%2816%29.png)
 

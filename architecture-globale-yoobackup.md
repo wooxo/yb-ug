@@ -16,9 +16,9 @@ Dans le cas où un agent n'arrive pas à joindre son stockage principal pour une
 
 YooBackup utilise une technologie permettant de fournir un système de sauvegarde incrémentale bloc illimité.
 
-À chaque sauvegarde le système va identifier les éléments ayant évolué depuis l'opération précédente. À partir de là, objet par objet il va identifier les blocs ayant évolué et ne sauvegarder ainsi que l'incrément.
+À chaque sauvegarde, le système va identifier les éléments ayant évolué depuis l'opération précédente. À partir de là, objet par objet, il va identifier les blocs ayant évolué et ainsi ne sauvegarder que l'incrément.
 
-Au moment de la configuration, l'utilisateur va choisir un nombre maximum de versions à conserver. Le système de sauvegarde gérera ainsi automatiquement le nombre d'incréments à conserver.  
+Au moment de la configuration, l'utilisateur va choisir un nombre maximum de versions à conserver. Le système de sauvegarde gèrera ainsi automatiquement le nombre d'incréments à conserver.  
 Quand il atteindra le nombre maximum à conserver, il réalisera une opération de synthèse du premier incrément avec la première version complète pour respecter le paramétrage réalisé.
 
 Ainsi, plus le nombre de versions à conserver est grand, plus le système sera flexible pour revenir sur des versions antérieures, mais plus l'espace de stockage nécessaire sera important.

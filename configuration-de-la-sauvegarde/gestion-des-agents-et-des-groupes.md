@@ -18,7 +18,7 @@ Si les filtres existants ne couvrent pas votre périmètre de recherche, il est 
 
 ![](../.gitbook/assets/liste-agents-recherche.PNG)
 
-Depuis ce panneau il est également possible de  :
+Depuis ce panneau il est également possible de :
 
 * Ajouter \(bouton "+"\), supprimer \(bouton "-"\) ou renommer un jeu de sauvegarde \(crayon\).
 
