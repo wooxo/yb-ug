@@ -9,7 +9,7 @@
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* MacOs 10.7 jusqu'à macOS 10.13
+* MacOs 10.12 jusqu'à macOS 10.14
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
