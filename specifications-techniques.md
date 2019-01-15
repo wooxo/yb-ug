@@ -72,13 +72,13 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Volume système</b>
       </td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 8Go</td>
     </tr>
     <tr>
@@ -320,13 +320,13 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Volume système</b>
       </td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 8Go</td>
     </tr>
     <tr>
