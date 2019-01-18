@@ -36,7 +36,7 @@
 
 ![](../../.gitbook/assets/image%20%2826%29.png)
 
-* VMWare vSphere
+* VMware vSphere
   * Version 4.1 à 6.7
   * Support de CBT 
   * Support de vCenter
