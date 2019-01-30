@@ -79,7 +79,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume données</b>
@@ -166,10 +166,10 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Mémoire vive</b>
       </td>
-      <td style="text-align:center">16 Go DDR4</td>
-      <td style="text-align:center">16 Go DDR4</td>
-      <td style="text-align:center">16 Go DDR4</td>
-      <td style="text-align:center">16 Go DDR4</td>
+      <td style="text-align:center">32 Go DDR4</td>
+      <td style="text-align:center">32 Go DDR4</td>
+      <td style="text-align:center">32 Go DDR4</td>
+      <td style="text-align:center">32 Go DDR4</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Réseau</b>
