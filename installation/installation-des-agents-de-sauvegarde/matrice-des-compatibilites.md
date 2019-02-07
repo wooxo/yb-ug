@@ -19,6 +19,11 @@
 * Fedora 22 jusqu'à Fedora 28 
 * CentOs 6 jusqu'à CentOS 7
 
+![](../../.gitbook/assets/image%20%2829%29.png)
+
+* A partir de DSM 6
+* Architecture x86\_x64 et et armada370
+
 ## Sauvegarde volume \(BMR\)
 
 ![](../../.gitbook/assets/image%20%288%29.png)
