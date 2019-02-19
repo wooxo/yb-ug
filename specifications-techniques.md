@@ -205,11 +205,11 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">RAID5
         <br />3x8To 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x8To 7200RPM</td>
+        <br />3x10To 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x8To 7200RPM</td>
+        <br />3x12To 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x8To 7200RPM</td>
+        <br />3x14To 7200RPM</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Refroidissement</b>
