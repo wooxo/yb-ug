@@ -31,7 +31,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
     <tr>
       <td style="text-align:left">178.33.43.186</td>
       <td style="text-align:left">443</td>
-      <td style="text-align:left">Monitoring matériel</td>
+      <td style="text-align:left">Monitoring mat&#xE9;riel</td>
     </tr>
     <tr>
       <td style="text-align:left">46.18.210.130</td>
@@ -39,15 +39,12 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       <td style="text-align:left">Activation des licences</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p>46.18.210.131 (serveur décommissionné q1 2019)</p>
-        <p>167.114.245.232 (nouvelle ip)</p>
-      </td>
+      <td style="text-align:left">167.114.245.232</td>
       <td style="text-align:left">443</td>
       <td style="text-align:left">Monitoring logiciel</td>
     </tr>
     <tr>
-      <td style="text-align:left">46.18.210.153</td>
+      <td style="text-align:left">167.114.239.163</td>
       <td style="text-align:left">
         <p>6670 ou</p>
         <p>443 ou</p>
@@ -75,7 +72,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
         <p>1720 ou</p>
         <p>1723</p>
       </td>
-      <td style="text-align:left">Serveur mise à jour YooBackup</td>
+      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup</td>
     </tr>
     <tr>
       <td style="text-align:left">167.114.251.186</td>
@@ -87,7 +84,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
         <p>1720 ou</p>
         <p>1723</p>
       </td>
-      <td style="text-align:left">Serveur mise à jour YooBackup secondaire</td>
+      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</td>
     </tr>
   </tbody>
 </table>### Communication appliance -&gt; agent de sauvegarde

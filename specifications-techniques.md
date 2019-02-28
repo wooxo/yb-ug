@@ -9,7 +9,7 @@ description: Spécifications techniques des différentes box.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Modèle</th>
+      <th style="text-align:left">Mod&#xE8;le</th>
       <th style="text-align:center">AllRoad 1To</th>
       <th style="text-align:center">AllRoad 2To</th>
       <th style="text-align:center">AllRoad 4To</th>
@@ -24,17 +24,17 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Processeur</b>
       </td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mémoire vive</b>
+      <td style="text-align:left"><b>M&#xE9;moire vive</b>
       </td>
       <td style="text-align:center">4Go DDR3</td>
       <td style="text-align:center">4Go DDR3</td>
@@ -46,7 +46,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">4Go DDR3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Réseau</b>
+      <td style="text-align:left"><b>R&#xE9;seau</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -70,7 +70,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume système</b>
+      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
       </td>
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
@@ -82,7 +82,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">SSD MSATA 64Go</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume données</b>
+      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
       </td>
       <td style="text-align:center">RAID1
         <br />2x1To 5900RPM</td>
@@ -147,7 +147,7 @@ description: Spécifications techniques des différentes box.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Modèle</th>
+      <th style="text-align:left">Mod&#xE8;le</th>
       <th style="text-align:center">AllRoad 16 To</th>
       <th style="text-align:center">AllRoad 20To</th>
       <th style="text-align:center">AllRoad 24To</th>
@@ -158,13 +158,13 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Processeur</b>
       </td>
-      <td style="text-align:center">Intel® Core® i7-7700k</td>
-      <td style="text-align:center">Intel® Core® i7-7700k</td>
-      <td style="text-align:center">Intel® Core® i7-7700k</td>
-      <td style="text-align:center">Intel® Core® i7-7700k</td>
+      <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
+      <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
+      <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
+      <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mémoire vive</b>
+      <td style="text-align:left"><b>M&#xE9;moire vive</b>
       </td>
       <td style="text-align:center">32 Go DDR4</td>
       <td style="text-align:center">32 Go DDR4</td>
@@ -172,7 +172,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">32 Go DDR4</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Réseau</b>
+      <td style="text-align:left"><b>R&#xE9;seau</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -188,7 +188,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 220 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume système</b>
+      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
       </td>
       <td style="text-align:center">RAID1
         <br />2x128 Go SSD</td>
@@ -200,7 +200,7 @@ description: Spécifications techniques des différentes box.
         <br />2x128 Go SSD</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume données</b>
+      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
       </td>
       <td style="text-align:center">RAID5
         <br />3x8To 7200RPM</td>
@@ -257,7 +257,7 @@ description: Spécifications techniques des différentes box.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Modèle</th>
+      <th style="text-align:left">Mod&#xE8;le</th>
       <th style="text-align:center">Classic 1To</th>
       <th style="text-align:center">Classic 2To</th>
       <th style="text-align:center">Classic 4To</th>
@@ -272,17 +272,17 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Processeur</b>
       </td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Celeron® J1900</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
-      <td style="text-align:center">Intel® Pentium® G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mémoire vive</b>
+      <td style="text-align:left"><b>M&#xE9;moire vive</b>
       </td>
       <td style="text-align:center">4 Go DDR3</td>
       <td style="text-align:center">4 Go DDR3</td>
@@ -294,7 +294,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">4 Go DDR3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Réseau</b>
+      <td style="text-align:left"><b>R&#xE9;seau</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -318,7 +318,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume système</b>
+      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
       </td>
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
@@ -330,7 +330,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">SSD MSATA 8Go</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume données</b>
+      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
       </td>
       <td style="text-align:center">RAID1 2x1To 5900RPM</td>
       <td style="text-align:center">RAID1 2x2To 5900RPM</td>
@@ -397,7 +397,7 @@ description: Spécifications techniques des différentes box.
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Modèle</th>
+      <th style="text-align:left">Mod&#xE8;le</th>
       <th style="text-align:center">Backstone 12To LTO</th>
       <th style="text-align:center">Backstone 12To RDX</th>
       <th style="text-align:center">Backstone 24To</th>
@@ -422,7 +422,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x Intel Xeon 2630v3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Mémoire vive</b>
+      <td style="text-align:left"><b>M&#xE9;moire vive</b>
       </td>
       <td style="text-align:center">16Go DDR4 ECC</td>
       <td style="text-align:center">16Go DDR4 ECC</td>
@@ -434,7 +434,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">64Go DDR4 ECC</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Réseau</b>
+      <td style="text-align:left"><b>R&#xE9;seau</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -446,7 +446,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 10GbE 2x 1GbE</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume système</b>
+      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
       </td>
       <td style="text-align:center">RAID1
         <br />2x240 Go SSD</td>
@@ -466,7 +466,7 @@ description: Spécifications techniques des différentes box.
         <br />2x480 Go SSD</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume données</b>
+      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
       </td>
       <td style="text-align:center">RAID5
         <br />3x6To SATA</td>
@@ -489,7 +489,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:left">
         <p><b>Bande</b>
         </p>
-        <p><b>Média</b>
+        <p><b>M&#xE9;dia</b>
         </p>
       </td>
       <td style="text-align:center">Lecteur interne LTO7</td>
