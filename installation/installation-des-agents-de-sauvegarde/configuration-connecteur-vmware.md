@@ -10,7 +10,7 @@ Sélectionner le "Parc de sauvegarde" puis cliquer sur l'icône +.
 
 Sélectionner "Agent de sauvegarde VMware ESX" dans la liste déroulante "Type de création".
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/image%20%2829%29.png)
 
 Choisir un nom pour l'agent créé et compléter les informations de connexion de l'hôte ESX ou du vCenter.
 

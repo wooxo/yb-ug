@@ -2,9 +2,9 @@
 
  La gestion de parc s'effectue dans l'onglet "Gestion de parc".
 
-![](.gitbook/assets/menu-getsion_de_parc.gif)
-
 L'écran affiche les informations détaillées sur tout le parc informatique associé à une licence.
+
+![](.gitbook/assets/menu-getsion_de_parc.gif)
 
 ![](.gitbook/assets/gestion-de-parc-pc.PNG)
 
@@ -22,7 +22,7 @@ En sélectionnant un poste dans la liste, il est possible de voir l'ensemble de 
 
 ![](.gitbook/assets/gestion-de-parc-disque.PNG)
 
-Des filtres de recherche sont disponibles afiin de limiter l'affichage des informations. Ils peuvent être très utiles notamment pour les parcs de taille importante.
+Des filtres de recherche sont disponibles afin de limiter l'affichage des informations. Ils peuvent être très utiles notamment pour les parcs de taille importante.
 
 ![](.gitbook/assets/gestion-de-parc-filtres.png)
 

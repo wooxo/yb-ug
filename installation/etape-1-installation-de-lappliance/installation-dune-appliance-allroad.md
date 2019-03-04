@@ -10,13 +10,13 @@ L'installation d'une appliance AllRoad est simple mais doit être effectuée cor
 
 ### AllRoad Mini
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 ### Platine connectiques
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 ## Contenu du carton
 
@@ -37,7 +37,7 @@ La mise en place du socle anti-arrachement est une sécurité supplémentaire po
 
 
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 4. Retirer le film protecteur
 
