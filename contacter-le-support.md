@@ -1,17 +1,17 @@
-# Contacter le support
+# Helpdesk Contact
 
-Pour toute question ou problématique concernant les appliances Wooxo, n'hésitez pas à contacter le support Wooxo :
+For any question or problem regarding Wooxo appliances, do not hesitate to contact the Wooxo Helpdesk:
 
-* Par téléphone : 0 811 140 160
-* Par mail : support@wooxo.fr
-* Par chat : depuis le site web [www.wooxo.fr](http://www.wooxo.fr/) ou depuis YooPortal
-* Par le portail de support : [https://yooportal.wooxo.fr ](https://yooportal.wooxo.fr%20)
+* By phone: 0 811 140 160
+* By e-mail: support@wooxo.fr
+* By chat: from the web site [www.wooxo.fr](http://www.wooxo.fr/) or from the YooPortal
+* From the support portal: [https://yooportal.wooxo.fr ](https://yooportal.wooxo.fr%20)
 
-Pour toute question ou problématique concernant les appliances Backstone, n'hésitez pas à contacter le support Atempo:
+For any question or problem regarding Backstone appliance, do not hesitate to contact Atempo support:
 
-* Par téléphone : +33 1 6486 8300
-* Par mail : support@atempo.com
-* Par le portail de support : [https://isp.atempo.com](https://isp.atempo.com)
+* By phone: +33 1 6486 8300
+* By e-mail: support@atempo.com
+* From the support portal: [https://isp.atempo.com](https://isp.atempo.com)
 
 
 

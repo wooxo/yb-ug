@@ -1,14 +1,14 @@
 # Concept
 
-## Définitions
+## Definition
 
-Le OneClickRestart va permettre de créer une machine virtuelle directement sur l'appliance.
+The OneClickRestart allows creating a virtual machine directly on the appliance.
 
-Une fois activée sur un jeu de sauvegarde image volume ou VMware, le système consolidera une machine virtuelle prête à redémarrer à chaque instant directement sur l'appliance
+Once it is activated on a image or volume backup set or VMware, the system will consolidate a virtual machine ready to restart at any time directly on the appliance. 
 
 ## Limitations
 
-Aujourd'hui, le système n'est compatible qu'avec les images volumes ou sauvegarde VMware.
+Actually, the system is only compatible with volume images or VMware backup.
 
-Il est limité à 1 un poste sur les gammes AllRoad et illimité sur les gammes AllRoad premium et Backstone.
+It is limited to one workstation for the AllRoad ranges and unlimited for the AllRoad premium and Backstone ranges.
 

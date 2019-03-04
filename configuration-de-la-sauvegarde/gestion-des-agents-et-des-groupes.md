@@ -1,38 +1,38 @@
-# Gestion des agents et des groupes
+# Agents and Groups Management
 
-La gestion des agents et des groupes s'effectue dans l'onglet "Sauvegarde".
+The agents and groups managemnet is done in the "Backup" tab.
 
-![](../.gitbook/assets/menu-sauvegarde%20%281%29.gif)
+![](../.gitbook/assets/menu_backup%20%285%29.gif)
 
-Les différents agents et jeux de sauvegardes sont listés dans le panneau latéral gauche de l'interface.
+The agents and backup sets are listed in the left side panel of the interface.
 
-![](../.gitbook/assets/liste-agents.PNG)
+![](../.gitbook/assets/backupset_config.gif)
 
-L'affichage des agents et jeux peut être modifié à l'aide des différents filtres existants.
+Agents and backup sets displayed can be modified using the existing filters. 
 
-Pour lister et choisir les filtres, cliquez sur la flèche à la fin du champ Recherche. Reproduisez l'action pour sélectionner plusieurs filtres. Ces derniers s'afficheront dans la zone Recherche.
+To list and select the filters, click the arrow at the end of the Search field. Perform the same action to select multiple filters. They will display in the Search area. 
 
-![](../.gitbook/assets/liste-agents-filtres.png)
+![](../.gitbook/assets/filter_selection.gif)
 
-Si les filtres existants ne couvrent pas votre périmètre de recherche, il est possible d'effectuer une recherche par mots clés.
+If existing filters do not cover your search perimeter, you can search by keywords. 
 
-![](../.gitbook/assets/liste-agents-recherche.PNG)
+![](../.gitbook/assets/search_keyword.gif)
 
-Depuis ce panneau il est également possible de :
+From this panel it is also possible to:
 
-* Ajouter \(bouton "+"\), supprimer \(bouton "-"\) ou renommer un jeu de sauvegarde \(crayon\).
+* Add \("+"\), delete \("-"\) or rename a backup set \(pencil\).
 
-![](../.gitbook/assets/liste-agents-modifier.PNG)
+![](../.gitbook/assets/modify_name.gif)
 
-* Gérer la configuration des profils, planificateurs et scripts depuis cet onglet.
+* Manage profiles configuration and scripts from this tab ![](../.gitbook/assets/icon_adm.gif) .
 
-![](../.gitbook/assets/liste-agents-administration%20%281%29.PNG)
+![](../.gitbook/assets/manage_profile_script.gif)
 
-* Supprimer directement un agent depuis le panneau latéral en se positionnant sur l'agent et en cliquant sur le bouton "-". 
+* Directly delete an agent from this side panel by selecting the agent and clicking the "-" button. 
 
 {% hint style="warning" %}
-La suppression d'agent depuis le panneau est à utiliser avec précaution, cela pouvant engendrer la destruction des données présentes sur le boitier de sauvegarde.
+The deletion of agent from the side panel must be used with care, this can cause the destruction of data that are on the backup case. 
 {% endhint %}
 
-![](../.gitbook/assets/supprimer-agent.PNG)
+![](../.gitbook/assets/message_warning.gif)
 

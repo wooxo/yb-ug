@@ -1,22 +1,22 @@
-# Configuration connecteur montages SAMBA
+# SAMBA Mounting Connector Configuration
 
- Pour réaliser la sauvegarde de montage SAMBA, il n'est pas nécessaire de déployer un agent sur les éléments à sauvegarder.
+ To perform a SAMBA backup configuration it is not necessary to deploy an agent on the hosts to be backed up.
 
-A l'activation de la solution, l'agent embarqué dans l'appliance est installé, il portera le même nom d'hôte que l'appliance.
+Upon the activation of the solution, the agent embeed in the appliance is installed, it will have the same hostname as the appliance.
 
-Si l'agent ne s'est pas déployé, vous pouvez vous rendre dans l'administration et forcer son installation.
+If the agent is not deployed, you can go back to the administration and force its installation.
 
-Une fois l'agent disponible, il suffit de le sélectionner:
+* Once the agent available, select it:
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2832%29.png)
 
-De se rendre dans l'onglet "Partages distant" sur la droite :
+* Then go to  "Remote share" on the right:
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/menu_remote_share.gif)
 
-Et de créer un nouveau partage
+* Click "+" to create a new share
 
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/new_share.gif)
 
-Il faut préciser un nom du partage permettant de l'identifier facilement par la suite, l'adresse réseau, le point de montage ainsi que les identifiants de montage \(ne pas renseigner le domaine, il sera automatiquement détecté\). 
+It is necessary to specify a share name to identify it easily, a network adress, the point and ID of the mounting \(do not enter the domain, it will be automatically detected\). 
 

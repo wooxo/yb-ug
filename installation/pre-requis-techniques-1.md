@@ -1,23 +1,23 @@
-# Pré-requis techniques
+# Technical Prerequisites
 
-## Conditions de fonctionnement
+## Operating Conditions
 
-Les appliances doivent être placées dans un environnement adapté au fonctionnement d'un matériel informatique :
+Appliances must be placed in an environment suitable to hardware working:
 
-* Ne pas exposer au soleil ou à toute flamme 
-* Ne pas exposer à tout liquide quel qu'il soit
-* Veiller à maintenir une température ambiante comprise entre 15° et 30° en fonctionnement
-* Raccorder l'équipement via l'onduleur \(si fourni\) à un réseau électrique aux normes en vigueur 
+* Do not expose to the sun or any flame 
+* Do not expose to any liquid
+* Make sure the ambiant temperature is between 15° and 30° when operating
+* Connect the equipment via the inverter \(if supplied\) to an electrical network that respects the standards in force 
 
-En cas d'exposition à une flamme ou à tout liquide merci de vous rapprocher au plus tôt du Support Wooxo et ne pas intervenir en autonomie.
+In case of exposition to any flame or liquid, please contact as soon as possible the Wooxo Helpdesk and do not try to intervene by yourself.
 
-Tout fonctionnement "hors-cadre" entrainera une révocation de la garantie.
+Any operation "out of frame" will result in a revocation of the guarantee.
 
-## Pré-requis réseau
+## Network Prerequisites
 
-### Communication appliance -&gt; Infrastructure Wooxo/Atempo
+### Appliance Communication-&gt; Wooxo/Atempo Infrastructure 
 
-L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour récupérer les mises à jour, remonter les alertes et permettre le monitoring des solutions.
+The appliance needs to communicate with Wooxo/Atempo infrastructure to collect the last updates, escalate alerts and enable solution monitoring .
 
 <table>
   <thead>
@@ -31,69 +31,72 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
     <tr>
       <td style="text-align:left">178.33.43.186</td>
       <td style="text-align:left">443</td>
-      <td style="text-align:left">Monitoring mat&#xE9;riel</td>
+      <td style="text-align:left">Hardware monitoring</td>
     </tr>
     <tr>
       <td style="text-align:left">46.18.210.130</td>
       <td style="text-align:left">443</td>
-      <td style="text-align:left">Activation des licences</td>
+      <td style="text-align:left">License activation</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.245.232</td>
-      <td style="text-align:left">443</td>
-      <td style="text-align:left">Monitoring logiciel</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">167.114.239.163</td>
       <td style="text-align:left">
-        <p>6670 ou</p>
-        <p>443 ou</p>
-        <p>80 ou</p>
-        <p>21 ou</p>
-        <p>123 ou</p>
-        <p>1720 ou</p>
+        <p>46.18.210.131 (decommissionned server q1 2019)</p>
+        <p>167.114.245.232 (New IP)</p>
+      </td>
+      <td style="text-align:left">443</td>
+      <td style="text-align:left">Software monitoring</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">46.18.210.153</td>
+      <td style="text-align:left">
+        <p>6670 or</p>
+        <p>443 or</p>
+        <p>80 or</p>
+        <p>21 or</p>
+        <p>123 or</p>
+        <p>1720 or</p>
         <p>1723</p>
       </td>
-      <td style="text-align:left">Prise en main maintenance (Support)</td>
+      <td style="text-align:left">Getting Started (Support)</td>
     </tr>
     <tr>
       <td style="text-align:left">167.114.245.153</td>
       <td style="text-align:left">6670</td>
-      <td style="text-align:left">Brique datacenter YooBackup
-        <br />(alertes et externalisation)</td>
+      <td style="text-align:left">YooBackup Datacenter brick
+        <br />(alerts et outsourcing)</td>
     </tr>
     <tr>
       <td style="text-align:left">167.114.240.200</td>
       <td style="text-align:left">
-        <p>443 ou</p>
-        <p>80 ou</p>
-        <p>21 ou</p>
-        <p>123 ou</p>
-        <p>1720 ou</p>
+        <p>443 or</p>
+        <p>80 or</p>
+        <p>21 or</p>
+        <p>123 or</p>
+        <p>1720 or</p>
         <p>1723</p>
       </td>
-      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup</td>
+      <td style="text-align:left">YooBackup update server</td>
     </tr>
     <tr>
       <td style="text-align:left">167.114.251.186</td>
       <td style="text-align:left">
-        <p>443 ou</p>
-        <p>80 ou</p>
-        <p>21 ou</p>
-        <p>123 ou</p>
-        <p>1720 ou</p>
+        <p>443 or</p>
+        <p>80 or</p>
+        <p>21 or</p>
+        <p>123 or</p>
+        <p>1720 or</p>
         <p>1723</p>
       </td>
-      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</td>
+      <td style="text-align:left">YooBackup secondary update server</td>
     </tr>
   </tbody>
-</table>### Communication appliance -&gt; agent de sauvegarde
+</table>### Appliance Communication -&gt; Backup agent
 
-La communication utilise le port 6670 en TCP.
+The communication uses the 6670 port in TCP.
 
-### Communication agent de sauvegarde -&gt; appliance ou datacentre
+### Backup Agent Communication -&gt; Appliance or Data center
 
-La communication se fait sur le port 6670 en TCP et à l'installation cela nécessite le port  443 en TCP.
+The communication is done on port 6670 in TCP and at the installation the port 443 in TCP is required. 
 
 
 

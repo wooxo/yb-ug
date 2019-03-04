@@ -1,32 +1,32 @@
-# Utilisation gestion de parc
+# Use of Park Management
 
- La gestion de parc s'effectue dans l'onglet "Gestion de parc".
+The park management is done in the "Park Monitor" tab.
 
-![](.gitbook/assets/menu-getsion_de_parc.gif)
+![](.gitbook/assets/menu_park_monitor.gif)
 
-L'écran affiche les informations détaillées sur tout le parc informatique associé à une licence.
+The screen displays detailed about the entire computer park associated with the license.
 
-![](.gitbook/assets/gestion-de-parc-pc.PNG)
+![](.gitbook/assets/park_management.gif)
 
-En sélectionnant un poste dans la liste, il est possible de voir l'ensemble de ses 
+Select a computer in the list to see its: 
 
-* composants \(processeur, carte mère, carte graphique...\)
+* components \(processor, motherboard, graphic card...\)
 
-![](.gitbook/assets/gestion-de-parc-materiel.PNG)
+![](.gitbook/assets/components.gif)
 
-* logiciels installés
+* software installed
 
-![](.gitbook/assets/gestion-de-parc-logiciel.PNG)
+![](.gitbook/assets/software.gif)
 
-* des informations sur les disques et partitions
+* information on disks and partitions
 
-![](.gitbook/assets/gestion-de-parc-disque.PNG)
+![](.gitbook/assets/disk.gif)
 
-Des filtres de recherche sont disponibles afiin de limiter l'affichage des informations. Ils peuvent être très utiles notamment pour les parcs de taille importante.
+Search filters are available to narrow information displayed. They can be very usefull especially for large park. 
 
-![](.gitbook/assets/gestion-de-parc-filtres.png)
+![](.gitbook/assets/filters.gif)
 
-Exemple de filtres : Afficher uniquement les postes fixes de plus d'1To de capacité.
+Example of filters: Displays only desktops with a capacity over 1Tb. 
 
-![](.gitbook/assets/gestion-de-parc-filtres-exemple.PNG)
+![](.gitbook/assets/filetr2.gif)
 

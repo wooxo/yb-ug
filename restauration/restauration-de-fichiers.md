@@ -1,32 +1,28 @@
-# Restauration de fichiers
+# File Restores
 
- La restauration de fichiers s'effectue dans l'onglet "Sauvegarde".
+The file restores are done in the "Backup" tab.
 
-![](../.gitbook/assets/menu-sauvegarde%20%284%29.gif)
+![](../.gitbook/assets/menu_backup%20%282%29.gif)
 
-1. Sélectionnez le jeu de sauvegarde souhaité.
-2. Cliquez sur l'onglet "Gestion des fichiers sauvegardés"
-3. Sélectionnez les éléments à restaurer.
-
-![](../.gitbook/assets/jeu-de-sauvegarde.PNG)
-
-![](../.gitbook/assets/restauration-selection-elements%20%281%29.PNG)
+1. Select the appropriate backup set.
+2. Click on the "Files Management" tab.
+3. Select the items to restore.
 
 {% hint style="info" %}
-Des filtres d'affichage sont présents dans le panneau latéral droit afin de simplifier la recherche d'éléments à restaurer. Il est ainsi possible d'afficher une ou plusieurs versions de chaque élément, ainsi que d'afficher ou exclure des éléments contenant certains mots clés ou ayant certaines extensions.
+Display filters are available in the right side panel to easily search for items to restore. It is thus possible to display one or more versions of each item, as well as to exclude items containing certain keywords or having specific extensions.
 {% endhint %}
 
-![](../.gitbook/assets/restauration-filtres.PNG)
+![](../.gitbook/assets/filters_files_manag.gif)
 
-1. Cliquez sur "Lancer la restauration" 
-2. Sélectionnez l'emplacement de restauration. 
-3. Validez.
+![](../.gitbook/assets/filters_files_manag2.gif)
+
+1. Click "Start to restore" .
+2. Select the restore location \(target\). 
+3. Validate.
 
 {% hint style="warning" %}
-Il est possible de restaurer les éléments à leur emplacement d'origine, cette action entraînera la suppression des éléments présents.
+It is possible to restore items to their original location, this action will delete items that are already in this location. 
 {% endhint %}
-
-![](../.gitbook/assets/restauration-lancer%20%281%29.PNG)
 
 
 

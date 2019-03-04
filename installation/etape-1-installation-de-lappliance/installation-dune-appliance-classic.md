@@ -1,44 +1,44 @@
-# Installation d'une appliance Classic
+# Classic Appliance Installation
 
-L'installation d'une appliance Classic est simple mais doit être effectuée correctement pour assurer son bon fonctionnement.
+The Classic appliance installation is easy but must be performed correctly to ensure proper operation. 
 
-## Vue d'ensemble
+## Overview
 
-### Classic box
+### Classic Box
 
 ![](../../.gitbook/assets/image%20%281%29.png)
 
-### Platine connectiques
+### Platinum Connector <a id="platinum-connector"></a>
 
 ![](../../.gitbook/assets/image%20%2814%29.png)
 
-## Contenu du carton
+## Box Content
 
-* Une appliance Classic
-* Un cordon d'alimentation \(ou une alimentation externe en fonction du modèle, cf. [Spécifications techniques](../../specifications-techniques.md#appliances-allroad)\)
-* Un cable RJ45
-* Un onduleur et un câble USB spécifique
-* OneKey Restore
+* A Classic appliance
+* A power rope \(or an external power supply depending on the model, e.g., . [Technical Specifications](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/specifications-techniques)\)
+* A cable RJ45
+* An inverter and a specific USB cable
+* OneKey Restore USB key
 
-## Raccordement électrique
+## Electrical Connection
 
-Nous pouvons maintenant procéder au raccordement électrique de la solution:
+We can now proceed to the electrical connection of the solution:
 
-1. Raccorder la box à l'onduleur \(fourni avec la box en fonction de l'offre choisie\).
-2. Raccorder le câble USB de l'onduleur à n'importe quel port USB de l'appliance
-3. Brancher l'onduleur au réseau électrique du client
+1. Connect the box to the inverter \(provided with the box depending on the chosen offer\)
+2. Connect the inverter USB cable to any USB port of the appliance
+3. Connect the inverter to the customer's power grid
 
-## Raccordement réseau
+## Network Connection
 
-Toutes les solutions possèdent deux ports réseau pouvant être utilisés pour associer l'appliance à deux réseaux physiques présents au sein de l'installation.
+Each appliance has two network ports that can be used to associate it to two physical networks present in the installation.
 
-Le port par défaut est indiqué par un autocollant LAN si ce n'est pas le cas, il s'agit du port le plus proche du port d'alimentation.
+The default port is indicated by a LAN sticker. If it is not the case, it is the port closest to the power port. 
 
-Une fois l'appliance raccordée physiquement au réseau du client, il va falloir la rendre accessible. Pour cela, 3 solutions :
+Once the appliance physically connected to the customer's network, it must be accessible.  For that, 3 solutions:
 
-1. S'il y a un DHCP et la propagation des noms d'hôtes, la machine sera disponible sur le nom d'hôte "wooxo-desktop"
-2. Vous avez la possibilité d'utiliser WTool qui est un utilitaire créé par Wooxo \([téléchargeable ici](https://wooxo.fr/WTool)\) 
-3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant : config / mot de passe: config\)
+1. If there is a DHCP and propagation of hostnames, the workstation will be available on the "wooxo-desktop" hostname.
+2. You can use WTool which is an utility created by Wooxo \([downloadable here](https://www.wooxo.fr/WTool)\), pay attention if multiple appliances are connected. 
+3. Directely from the appliance using a keyboard/screen and a maintenance account \(ID: config/password: config\).
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 

@@ -1,18 +1,18 @@
 ---
 description: >-
-  Ce manuel est à destination des utilisateurs ou administrateurs du logiciel de
-  sauvegarde YooBackup.
+  This documentation is for users or administrators of the YooBackup backup
+  software.
 ---
 
-# Manuel d'utilisation
+# User Manual
 
-YooBackup est une solution de sauvegarde éditée au sein du groupe Wooxo-Atempo, disponible :
+YooBackup is a backup solution published by Wooxo-Atempo, available:
 
-* Chez Wooxo, au format box \(plus d'infos : [https://www.wooxo.fr/Materiel-de-sauvegarde](https://www.wooxo.fr/Materiel-de-sauvegarde)\)
-  * Box AllRoad de 1 à 28To
-  * Box Classic de 1 à 14To
-* Chez Atempo, au format serveur rackable \(plus d'infos : [https://www.atempo.com/fr/produits/appliances-protection-backstone/](https://www.atempo.com/fr/produits/appliances-protection-backstone/)\)
-  * Serveur rackable de 2 à 4u de 12 à 240To 
+* At Wooxo, in box format \(for more details: [https://www.wooxo.fr/Materiel-de-sauvegarde](https://www.wooxo.fr/Materiel-de-sauvegarde)\)
+  * Box AllRoad from 1 to 28Tb
+  * Box Classic de 1 to 14Tb
+* At Atempo, in rack server format \(for more details: [https://www.atempo.com/fr/produits/appliances-protection-backstone/](https://www.atempo.com/fr/produits/appliances-protection-backstone/)\)
+  * Rack server from 2 to 4u of 12 to 240Tb 
 
 
 

@@ -1,29 +1,29 @@
-# Restauration de machine virtuelle VMware
+# VMware Restore
 
-La procédure de restauration d'une machine virtuelle est la même que celle utilisée pour la [Restauration de fichiers](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/restauration/restauration-de-fichiers).
+The VMware restore procedure is the same as the one uses for the [File Restores](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/restauration/restauration-de-fichiers).
 
- La restauration de la machine s'effectue dans l'onglet "Sauvegarde".
+ The VMware restore is done in the "Backup" tab.
 
-![](../.gitbook/assets/menu-sauvegarde.gif)
+![](../.gitbook/assets/menu_backup%20%287%29.gif)
 
-1. Sélectionnez le jeu de sauvegarde souhaité.
-2. Cliquez sur l'onglet "Gestion des fichiers sauvegardés"
-3. Sélectionnez les éléments à restaurer.
-
-![](../.gitbook/assets/sauvegarde_virtuelle%20%281%29.gif)
+1. Select the appropriate backup set.
+2. Click on the "Files Management" tab.
+3. Select the items to restore.
 
 {% hint style="info" %}
-Des filtres d'affichage sont présents dans le panneau latéral droit afin de simplifier la recherche d'éléments à restaurer. Il est ainsi possible d'afficher une ou plusieurs versions de chaque élément, ainsi que d'afficher ou exclure des éléments contenant certains mots clés ou ayant certaines extensions.
+Display filters are available in the right side panel to easily search for items to restore. It is thus possible to display one or more versions of each item, as well as to exclude items containing certain keywords or having specific extensions.
 {% endhint %}
 
-![](../.gitbook/assets/restauration-filtres.PNG)
+![](../.gitbook/assets/filters_files_manag.gif)
 
-1. Cliquez sur "Lancer la restauration" 
-2. Sélectionnez l'emplacement de restauration. 
-3. Validez.
+![](../.gitbook/assets/filters_files_manag2.gif)
+
+1. Click "Start to Restore" .
+2. Select the restore location \(target\). 
+3. Validate.
 
 {% hint style="warning" %}
-Il est possible de restaurer les éléments à leur emplacement d'origine, cette action entraînera la suppression des éléments présents.
+It is possible to restore items to their original location, this action will delete items that are already in this location.
 {% endhint %}
 
 

@@ -1,8 +1,8 @@
 ---
 description: >-
-  Cette partie va vous permettre de prendre en main le branchement/déploiement
-  d'une solution appliance YooBackup.
+  This topic enables you to get started with the connection/deployment of
+  YooBackup appliance solution.
 ---
 
-# Branchement / déploiement
+# Connection and Deployment
 

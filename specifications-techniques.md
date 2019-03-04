@@ -1,28 +1,28 @@
 ---
-description: Spécifications techniques des différentes box.
+description: Technical Specifications of the various boxes
 ---
 
-# Spécifications techniques
+# Technical Specifications
 
-## Box Wooxo AllRoad
+## Wooxo AllRoad Box 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Mod&#xE8;le</th>
-      <th style="text-align:center">AllRoad 1To</th>
-      <th style="text-align:center">AllRoad 2To</th>
-      <th style="text-align:center">AllRoad 4To</th>
-      <th style="text-align:center">AllRoad 6To</th>
-      <th style="text-align:center">AllRoad 8To</th>
-      <th style="text-align:center">AllRoad 10To</th>
-      <th style="text-align:center">AllRoad 12To</th>
-      <th style="text-align:center">AllRoad 14To</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:center">AllRoad 1Tb</th>
+      <th style="text-align:center">AllRoad 2Tb</th>
+      <th style="text-align:center">AllRoad 4Tb</th>
+      <th style="text-align:center">AllRoad 6Tb</th>
+      <th style="text-align:center">AllRoad 8b</th>
+      <th style="text-align:center">AllRoad 10Tb</th>
+      <th style="text-align:center">AllRoad 12Tb</th>
+      <th style="text-align:center">AllRoad 14Tb</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Processeur</b>
+      <td style="text-align:left"><b>Processor</b>
       </td>
       <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
       <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
@@ -34,19 +34,19 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>M&#xE9;moire vive</b>
+      <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
-      <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4Gb DDR3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>R&#xE9;seau</b>
+      <td style="text-align:left"><b>Network</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -58,7 +58,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Alimentation</b>
+      <td style="text-align:left"><b>Power Supply</b>
       </td>
       <td style="text-align:center">Externe 60 watts</td>
       <td style="text-align:center">Externe 60 watts</td>
@@ -70,65 +70,65 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
+      <td style="text-align:left"><b>System Volume</b>
       </td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
+      <td style="text-align:left"><b>Data Volume</b>
       </td>
       <td style="text-align:center">RAID1
-        <br />2x1To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x2To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x4To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x6To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x8To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x10To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x12To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x14To 7200RPM</td>
+        <br />2x1Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x2Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x4Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x6Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x8Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x10Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x12Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x14Tb 7200RPM</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Refroidissement</b>
+      <td style="text-align:left"><b>Cooling</b>
       </td>
-      <td style="text-align:center">Passif Fanless</td>
+      <td style="text-align:center">Passive Fanless</td>
       <td style="text-align:center">
-        <p>Passif</p>
+        <p>Passive</p>
         <p>Fanless</p>
       </td>
       <td style="text-align:center">
-        <p>Passif</p>
+        <p>Passive</p>
         <p>Fanless</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Dimensions et poids</b>
+      <td style="text-align:left"><b>Dimensions and Weight</b>
       </td>
       <td style="text-align:center">315 x 235 x 250 mm
         <br />14 kg</td>
@@ -142,21 +142,21 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">451 x 255 x 317 mm 23 kg</td>
     </tr>
   </tbody>
-</table>## Box Wooxo AllRoad Premium
+</table>## Wooxo AllRoad Premium Box 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Mod&#xE8;le</th>
-      <th style="text-align:center">AllRoad 16 To</th>
-      <th style="text-align:center">AllRoad 20To</th>
-      <th style="text-align:center">AllRoad 24To</th>
-      <th style="text-align:center">AllRoad 28To</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:center">AllRoad 16 Tb</th>
+      <th style="text-align:center">AllRoad 20Tb</th>
+      <th style="text-align:center">AllRoad 24Tb</th>
+      <th style="text-align:center">AllRoad 28Tb</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Processeur</b>
+      <td style="text-align:left"><b>Processor</b>
       </td>
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
@@ -164,15 +164,18 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>M&#xE9;moire vive</b>
+      <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">32 Go DDR4</td>
-      <td style="text-align:center">32 Go DDR4</td>
-      <td style="text-align:center">32 Go DDR4</td>
-      <td style="text-align:center">32 Go DDR4</td>
+      <td style="text-align:center">32 Gb DDR4</td>
+      <td style="text-align:center">32 Gb DDR4</td>
+      <td style="text-align:center">32 Gb DDR4</td>
+      <td style="text-align:center">
+        <p>32 Gb</p>
+        <p>DDR4</p>
+      </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>R&#xE9;seau</b>
+      <td style="text-align:left"><b>Network</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -180,7 +183,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Alimentation</b>
+      <td style="text-align:left"><b>Power Supply</b>
       </td>
       <td style="text-align:center">Interne 220 watts</td>
       <td style="text-align:center">Interne 220 watts</td>
@@ -188,51 +191,51 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 220 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
+      <td style="text-align:left"><b>System Volume</b>
       </td>
       <td style="text-align:center">RAID1
-        <br />2x128 Go SSD</td>
+        <br />2x128 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Go SSD</td>
+        <br />2x128 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Go SSD</td>
+        <br />2x128 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Go SSD</td>
+        <br />2x128 Gb SSD</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
+      <td style="text-align:left"><b>Data System</b>
       </td>
       <td style="text-align:center">RAID5
-        <br />3x8To 7200RPM</td>
+        <br />3x8Tb 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x10To 7200RPM</td>
+        <br />3x10Tb 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x12To 7200RPM</td>
+        <br />3x12Tb 7200RPM</td>
       <td style="text-align:center">RAID5
-        <br />3x14To 7200RPM</td>
+        <br />3x14Tb 7200RPM</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Refroidissement</b>
+      <td style="text-align:left"><b>Cooling</b>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Dimensions et poids</b>
+      <td style="text-align:left"><b>Dimensions and Weight</b>
       </td>
       <td style="text-align:center">
         <p>407 x 404 X 320 mm</p>
@@ -252,25 +255,25 @@ description: Spécifications techniques des différentes box.
       </td>
     </tr>
   </tbody>
-</table>## Box Wooxo Classic
+</table>## Wooxo Classic Box 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Mod&#xE8;le</th>
-      <th style="text-align:center">Classic 1To</th>
-      <th style="text-align:center">Classic 2To</th>
-      <th style="text-align:center">Classic 4To</th>
-      <th style="text-align:center">Classic 6To</th>
-      <th style="text-align:center">Classic 8To</th>
-      <th style="text-align:center">Classic 10To</th>
-      <th style="text-align:center">Classic 12To</th>
-      <th style="text-align:center">Classic 14To</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:center">Classic 1Tb</th>
+      <th style="text-align:center">Classic 2Tb</th>
+      <th style="text-align:center">Classic 4Tb</th>
+      <th style="text-align:center">Classic 6Tb</th>
+      <th style="text-align:center">Classic 8Tb</th>
+      <th style="text-align:center">Classic 10Tb</th>
+      <th style="text-align:center">Classic 12Tb</th>
+      <th style="text-align:center">Classic 14Tb</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Processeur</b>
+      <td style="text-align:left"><b>Processor</b>
       </td>
       <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
       <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
@@ -282,19 +285,19 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>M&#xE9;moire vive</b>
+      <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
-      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 Gb DDR3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>R&#xE9;seau</b>
+      <td style="text-align:left"><b>Network</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -306,7 +309,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Alimentation</b>
+      <td style="text-align:left"><b>Power Supply</b>
       </td>
       <td style="text-align:center">Externe 60 watts</td>
       <td style="text-align:center">Externe 60 watts</td>
@@ -318,69 +321,69 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
+      <td style="text-align:left"><b>System Volume</b>
       </td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 64Go</td>
-      <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 64Gb</td>
+      <td style="text-align:center">SSD MSATA 8Gb</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
+      <td style="text-align:left"><b>Data Volume</b>
       </td>
-      <td style="text-align:center">RAID1 2x1To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x2To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x4To 5900RPM</td>
-      <td style="text-align:center">RAID1 2x6To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x8To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x10To 7200RPM</td>
-      <td style="text-align:center">RAID1 2x12To
+      <td style="text-align:center">RAID1 2x1Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x2Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x4Tb 5900RPM</td>
+      <td style="text-align:center">RAID1 2x6Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x8Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x10Tb 7200RPM</td>
+      <td style="text-align:center">RAID1 2x12Tb
         <br />7200RPM</td>
-      <td style="text-align:center">RAID1 2x14To
+      <td style="text-align:center">RAID1 2x14Tb
         <br />7200RPM</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Refroidissement</b>
+      <td style="text-align:left"><b>Cooling</b>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
       <td style="text-align:center">
-        <p>Actif</p>
-        <p>Ventilateur</p>
+        <p>Active</p>
+        <p>Fan</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Dimensions et poids</b>
+      <td style="text-align:left"><b>Dimensions and Weight</b>
       </td>
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
@@ -392,25 +395,25 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
-</table>## ​Appliances Atempo Backstone
+</table>## Atempo Backstone ​Appliances 
 
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">Mod&#xE8;le</th>
-      <th style="text-align:center">Backstone 12To LTO</th>
-      <th style="text-align:center">Backstone 12To RDX</th>
-      <th style="text-align:center">Backstone 24To</th>
-      <th style="text-align:center">Backstone 36To</th>
-      <th style="text-align:center">Backstone 60To</th>
-      <th style="text-align:center">Backstone 80To</th>
-      <th style="text-align:center">Backstone 120To</th>
-      <th style="text-align:center">Backstone 240To</th>
+      <th style="text-align:left">Type</th>
+      <th style="text-align:center">Backstone 12Tb LTO</th>
+      <th style="text-align:center">Backstone 12Tb RDX</th>
+      <th style="text-align:center">Backstone 24Tb</th>
+      <th style="text-align:center">Backstone 36Tb</th>
+      <th style="text-align:center">Backstone 60Tb</th>
+      <th style="text-align:center">Backstone 80Tb</th>
+      <th style="text-align:center">Backstone 120Tb</th>
+      <th style="text-align:center">Backstone 240Tb</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"><b>Processeur</b>
+      <td style="text-align:left"><b>Processor</b>
       </td>
       <td style="text-align:center">Intel Xeon 2630v3</td>
       <td style="text-align:center">Intel Xeon 2630v3</td>
@@ -422,19 +425,19 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x Intel Xeon 2630v3</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>M&#xE9;moire vive</b>
+      <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">16Go DDR4 ECC</td>
-      <td style="text-align:center">16Go DDR4 ECC</td>
-      <td style="text-align:center">16Go DDR4 ECC</td>
-      <td style="text-align:center">32Go DDR4 ECC</td>
-      <td style="text-align:center">32Go DDR4 ECC</td>
-      <td style="text-align:center">64Go DDR4 ECC</td>
-      <td style="text-align:center">64Go DDR4 ECC</td>
+      <td style="text-align:center">16Gb DDR4 ECC</td>
+      <td style="text-align:center">16Gb DDR4 ECC</td>
+      <td style="text-align:center">16Gb DDR4 ECC</td>
+      <td style="text-align:center">32Gb DDR4 ECC</td>
+      <td style="text-align:center">32Gb DDR4 ECC</td>
+      <td style="text-align:center">64Gb DDR4 ECC</td>
+      <td style="text-align:center">64Gb DDR4 ECC</td>
       <td style="text-align:center">64Go DDR4 ECC</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>R&#xE9;seau</b>
+      <td style="text-align:left"><b>Network</b>
       </td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -446,60 +449,60 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 10GbE 2x 1GbE</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
+      <td style="text-align:left"><b>System Volume</b>
       </td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Go SSD</td>
+        <br />2x240 Gb SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x480 Go SSD</td>
+        <br />2x480 Gb SSD</td>
     </tr>
     <tr>
-      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
+      <td style="text-align:left"><b>Data System</b>
       </td>
       <td style="text-align:center">RAID5
-        <br />3x6To SATA</td>
+        <br />3x6Tb SATA</td>
       <td style="text-align:center">RAID5
-        <br />3x6To SATA</td>
+        <br />3x6Tb SATA</td>
       <td style="text-align:center">RAID6
         <br />6x6To SAS</td>
       <td style="text-align:center">RAID6
         <br />8x6To SAS</td>
       <td style="text-align:center">RAID6
-        <br />12x6To SAS</td>
+        <br />12x6Tb SAS</td>
       <td style="text-align:center">RAID6
-        <br />12x8To SAS</td>
+        <br />12x8Tb SAS</td>
       <td style="text-align:center">RAID6
-        <br />12x12To SAS</td>
+        <br />12x12Tb SAS</td>
       <td style="text-align:center">RAID6
-        <br />24x12To SAS</td>
+        <br />24x12Tb SAS</td>
     </tr>
     <tr>
-      <td style="text-align:left">
-        <p><b>Bande</b>
-        </p>
-        <p><b>M&#xE9;dia</b>
-        </p>
+      <td style="text-align:left"><b>Media Band</b>
       </td>
-      <td style="text-align:center">Lecteur interne LTO7</td>
-      <td style="text-align:center">Lecteur interne RDX</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
-      <td style="text-align:center">Connecteur SAS externe</td>
+      <td style="text-align:center">Internal Player
+        <br />LTO7</td>
+      <td style="text-align:center">
+        <p>Internal Player</p>
+        <p>RDX</p>
+      </td>
+      <td style="text-align:center">External SAS Connector</td>
+      <td style="text-align:center">External SAS Connector</td>
+      <td style="text-align:center">External SAS Connector</td>
+      <td style="text-align:center">External SAS Connector</td>
+      <td style="text-align:center">External SAS Connector</td>
+      <td style="text-align:center">External SAS Connector</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Format</b>

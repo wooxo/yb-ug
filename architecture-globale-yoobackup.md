@@ -1,41 +1,41 @@
-# Architecture et fonctionnement YooBackup
+# YooBackup Architecture and Operation
 
-## Généralités
+## General Information
 
 ![](.gitbook/assets/image%20%2813%29.png)
 
-### Fonctionnement global
+### Overal Operation
 
-Sur chaque élément à sauvegarder, il est nécessaire d'installer un agent YooBackup qui réalisera une sauvegarde cryptée et compressée \(fichiers ou volume\) dès l'origine vers un stockage principal, une appliance dans la plupart des cas.
+On each item to backup, a YooBackup agent needs to be installed that will performed an encrypted and compressed backup \(files or volume\) from the source to a main storage, an appliance in most cases.
 
-Cette sauvegarde pourra être externalisée vers un stockage secondaire : cloud Wooxo ou une deuxième appliance.
+This backup can be outsourced to secondary storage: Wooxo Cloud or a second appliance. 
 
-Dans le cas où un agent n'arrive pas à joindre son stockage principal pour une raison quelconque \(indisponibilité, panne, agent en itinérance\), il ira, s'il est configuré en réplication externalisée, contacter directement le stockage secondaire vers lequel il sauvegardera. Lorsque le stockage principal sera de nouveau joignable, les données redescendront automatiquement. C'est ce que l'on appelle le Plan de Continuité de Sauvegarde \(PCS\).
+In the case where an agent cannot connect to its main storage for any reason \(unavailability, outage, agent roaming\), it will, if it is configured in outsourcing, directly contact the secondary storage to which it will be backed up. When the main storage is again reachable, the data will automatically back down. This is called the Backup Continuity Plan \(BCP\). 
 
-### Un système de sauvegarde incrémentale bloc illimité
+### An Incremental Block backup System Unlimited 
 
-YooBackup utilise une technologie permettant de fournir un système de sauvegarde incrémentale bloc illimité.
+YooBackup uses a technology to provide an incremental block backup system unlimited . 
 
-À chaque sauvegarde, le système va identifier les éléments ayant évolué depuis l'opération précédente. À partir de là, objet par objet, il va identifier les blocs ayant évolué et ainsi ne sauvegarder que l'incrément.
+At each backup, the system identifies the items that changes from the previous operation. From there, object by object, it identifies the blocks that change and only saves the increment.
 
-Au moment de la configuration, l'utilisateur va choisir un nombre maximum de versions à conserver. Le système de sauvegarde gèrera ainsi automatiquement le nombre d'incréments à conserver.  
-Quand il atteindra le nombre maximum à conserver, il réalisera une opération de synthèse du premier incrément avec la première version complète pour respecter le paramétrage réalisé.
+At the configuration time, the user chooses a maximum number of versions to keep. The backup system will automatically manage the number of increments to keep.  
+When it reaches the maximum numbers to keep, it will perform an operation of synthesis of the first increment with the first complete version to respect the configuration performed. 
 
-Ainsi, plus le nombre de versions à conserver est grand, plus le système sera flexible pour revenir sur des versions antérieures, mais plus l'espace de stockage nécessaire sera important.
+Thus, the largest the number of versions to keep, the flexible the system will be to revert to previous versions, but more storage space will be required. 
 
-### Encryption et sécurité
+### Encryption and security
 
-Chaque solution possède une clé de cryptage propre générée à l'activation de la solution.
+Each solution has its own encryption key, generated at the solution activation. 
 
-Chaque agent communique avec l'appliance à travers un tunnel sécurisé.
+Each agent communicates with the appliance through a secured tunnel.
 
-L'ensemble des données sont cryptées à la source à l'aide de la clé propre à l'appliance.
+All data is crypted at the source using the appliance's own key. 
 
-Cette clé et l'ensemble des configurations propres à l'appliance sont sauvegardées de manière régulière et sécurisées vers la seconde appliance ou l'infrastructure Wooxo pour permettre le fonctionnement de la continuité de sauvegarde et également permettre une reprise en cas de sinistre majeur sur l'appliance.
+This key and all the configurations specific to the appliance are backed up on a regular basis and secured to the second appliance or the Wooko infrastructure to enable the backup continuity and also a disaster recovery on the appliance. 
 
-L'ensemble des données stockées physiquement sur l'appliance sont cryptées, compressés et ventilées via le système de gestion des versions, et donc inutilisables en l'état en cas d'extraction ou de manipulation physique sur l'appliance.
+All data physically stored on the appliance is encrypted, compressed and broken down via the versioning system management, and therefore unusable in the state in case of extraction or physical manipulation on the appliance.
 
-## Composants techniques
+## Technical Components
 
-![](.gitbook/assets/image%20%2822%29.png)
+![](.gitbook/assets/image%20%2823%29.png)
 

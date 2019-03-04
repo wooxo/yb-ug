@@ -1,6 +1,6 @@
-# Installation de l'agent Windows
+# Windows Agent Installation
 
-Une fois l'agent téléchargé depuis l'interface de YooBackup \(cf. [Installation des agents de sauvegarde](./)\), il vous suffit de suivre les étapes affichées à l'écran et d'indiquer l'adresse IP de l'appliance quand demandé.
+Once the agent downloaded from the YooBackup interface \( see [Backup Agents Installation](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/installation/installation-des-agents-de-sauvegarde)\), you just have to follow the steps displayed and enter the appliance IP address when requested. 
 
 ![](../../.gitbook/assets/instal-agent-windows-accueil.PNG)
 
@@ -8,5 +8,5 @@ Une fois l'agent téléchargé depuis l'interface de YooBackup \(cf. [Installati
 
 ![](../../.gitbook/assets/agent-instal-windows-fin.PNG)
 
-Votre agent est à présent disponible dans l'interface YooBackup.
+Your agent is now available in the YooBackup interface.
 

@@ -1,65 +1,65 @@
-# Guide de compatibilités
+# Compatibility Guide
 
-## Sauvegarde fichiers
+## Backup Files
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-* Windows Seven jusqu'à Windows 10
-* Windows Server 2008 R2 jusqu'à Windows Server 2016
+* Windows Seven up to Windows 10
+* Windows Server 2008 R2 up to Windows Server 2016
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* MacOs 10.12 jusqu'à macOS 10.14
+* MacOs 10.12 up to macOS 10.14
 
 ![](../../.gitbook/assets/image%20%2818%29.png)
 
-* Debian 7 jusqu'à Debian 9
-* Ubuntu 10 jusqu'à Ubuntu 18
-* RedHat 6 jusqu'à RedHat 7 
-* Fedora 22 jusqu'à Fedora 28 
-* CentOs 6 jusqu'à CentOS 7
+* Debian 7 up to Debian 9
+* Ubuntu 10 up to Ubuntu 18
+* RedHat 6 up to RedHat 7 
+* Fedora 22 up to Fedora 28 
+* CentOs 6 up to CentOS 7
 
-![](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
-* A partir de DSM 6
-* Architecture x86\_x64 et et armada370
+* From DSM 6
+* Architecture x86\_x64 & Armada370
 
-## Sauvegarde volume \(BMR\)
+## Volume Backup \(BMR\)
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-* Windows Seven jusqu'à Windows 10
-* Windows Server 2008 R2 jusqu'à Windows Server 2016
+* Windows Seven up to Windows 10
+* Windows Server 2008 R2 up to Windows Server 2016
 
-## Sauvegarde hyperviseur
+## Hypervisor Backup
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
 * Hyper-V: 
   * Windows Server 2008 R2 / Windows Server 2012 / Windows Server 2012 R2
-  * Pas de support des clusters
+  * No cluster support
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 * VMware vSphere
   * Version 4.1 à 6.7
-  * Support de CBT 
-  * Support de vCenter
+  * CBT Support
+  * vCenter Support
 
-## Sauvegarde applicative
+## Application Backup
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
 * Microsoft SLQ Server
-  * Base complète en mode fichier à chaud
+  * Full database in hot file mode
 * Microsoft Exchange
-  * Base complète en mode fichier à chaud
+  * Full database in hot file mode
 * Microsoft SharePoint
-  * Instance complète en mode fichier à chaud
-  * Nécessite la déclaration du Writer VSS au préalable
+  * Full instance in hot file mode
+  * Require the VSS Writer declaration in advance
 * Oracle Database
-  * Version 11 et supérieur
-  * Nécessite de valider la déclaration du Writer VSS au préalable
+  * Version 11and higher
+  * Require the VSS Writer declaration in advance
 
  
 

@@ -1,21 +1,21 @@
-# Changement des identifiants d'administration
+# Changing Administrator Credentials
 
- Le changement des identifiants s'effectue dans la partie Administration.
+The administrator credentials change is done in the Administration.
 
-![](../.gitbook/assets/menu_admin%20%283%29.gif)
+![](../.gitbook/assets/icone_admin.gif)
 
-![](../.gitbook/assets/admin_changement_identifiant.gif)
+![](../.gitbook/assets/admin_credentials.gif)
 
-1. Choisissez dans la liste déroulante la langue dans laquelle vous voulez afficher l'interface.
-2. Saisissez votre nouvel identifiant \(login\).
-3. Saisissez votre nouveau mot de passe et re validez le dans le champ Vérification.
-4. Cliquez sur Valider.
+1. Select in the drop down list the language in which you want to display the interface.
+2. Enter your new ID \(login\).
+3. Enter your new password and validate it again in the Verification field.
+4. Click "Validate".
 
 {% hint style="info" %}
-A la prochaine connexion vous devrez maintenant saisir vos nouveaux identifiants.
+At the next connection you now will be asked to enter your new credential. 
 {% endhint %}
 
-Un numéro de portable et une adresse e-mail doivent être saisis pour permettre l'envoi d' alertes en cas de problème technique.
+A mobile phone and an e-mail address must be entered in order to send alerts in case of technical problem.
 
 
 

@@ -1,16 +1,18 @@
-# Installation des agents de sauvegarde
+# Backup Agents Installation
 
-Selon le système d'exploitation utilisé, il va être nécessaire de déployer l'agent adapté.
+Depending on the operating system used, the appropriate agent will have to be deployed.
 
-Pour télécharger l'agent adéquat, il faut dans un premier temps se rendre sur l'interface web Yoobackup et s'identifier.
+To download the appropriate agent, you first have to go to the Yoobackup web interface and indentify yourself. 
 
-![](../../.gitbook/assets/log-in.PNG)
+![](../../.gitbook/assets/connexion.gif)
 
-Il faudra ensuite se rendre dans l'écran "Téléchargement" en cliquant sur ![](../../.gitbook/assets/icone_telecharg.gif). 
+Then you have to click on the  "Download" icon ![](../../.gitbook/assets/download_buuton.gif) .
 
-![](../../.gitbook/assets/bt_telechargement.gif)
+![](../../.gitbook/assets/onglet-telechargement.PNG)
 
-Les différents agents sont disponibles au téléchargement sur cette page.
+The agents available for download are displayed on this page.
 
-![](../../.gitbook/assets/telechargements%20%283%29.PNG)
+![](../../.gitbook/assets/download_list.gif)
+
+
 

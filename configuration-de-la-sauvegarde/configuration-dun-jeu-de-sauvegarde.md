@@ -1,81 +1,77 @@
-# Configuration d'un jeu de sauvegarde
+# Backup set Configuration
 
-La configuration d'un jeu de sauvegarde s'effectue dans l'onglet "Sauvegarde".
+The configuration of a backup set is done in the "Backup" tab. 
 
-![](../.gitbook/assets/menu-sauvegarde%20%287%29.gif)
+![](../.gitbook/assets/menu_backup%20%286%29.gif)
 
-Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer.
+Select in the left panel \(that displays the backup pool\) the backup set you want to configure.
 
-![](../.gitbook/assets/parc_sauvegarde.gif)
+![](../.gitbook/assets/backupset_config%20%283%29.gif)
 
-Quatre onglets vont donner des informations complémentaires et vous permettre de configurer votre jeu de sauvegarde :
+Four tabs give you additional information and enable you to configure the backup set:
 
-* Récapitulatif
-* Paramétrage
-* Gestion des fichiers sauvegardés
-* Journaux
+* Summary
+* Backup Settings
+* Files Management
+* Logs
 
-### Récapitulatif
+### Summary
 
-L'onglet Récapitulatif affiche la licence de l'agent pour lequel le jeu de sauvegarde va être configuré ainsi que le nombre d'éléments et les volumes sauvegardés. Cet onglet est informatif.
+The summary tab displays the agent's license for which the backup set wil be configured as well as the number of items and volumes backed up. This tab is only for information.
 
-![](../.gitbook/assets/recapitulatif-sauvegardes-pc.PNG)
+![](../.gitbook/assets/summary_tab%20%281%29.gif)
 
-### Paramétrage
+### Backup Settings
 
-C'est dans l'onglet Paramétrage que la configuration de la sauvegarde s'effectue.
+It is in the backup setings that the configuration is done.
 
-#### _Pour paramétrer les éléments à sauvegarder_
+#### _To configure the items to backup_
 
-1. Sélectionnez le ou les éléments à sauvegarder dans l'arbre.  
-   Les sous-dossiers ainsi que les éléments ajoutés par la suite seront automatiquement cochés. Pour supprimer un élément non désiré de la sauvegarde, il suffit de le décocher.
-
-   ![](../.gitbook/assets/parametrage-de-sauvegarde-pc.PNG)
-
-2. Sélectionnez un [profil de sauvegarde ](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/utilisations-des-profils-de-sauvegarde)ou saisissez les paramètres propres au jeu de sauvegarde  en cours de paramétrage.
+1. Select the item\(s\) to backup in the tree. The sub-folders as well as the items added later will automatically be checked. To remove an item from the backup, simply uncheck it.   ![](../.gitbook/assets/backup-settongs_tab.gif) 
+2. Select a [Backup Profile](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/configuration-de-la-sauvegarde/utilisations-des-profils-de-sauvegarde)[ ](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/utilisations-des-profils-de-sauvegarde)or enter the settings specific to the backup set being configured.
 
 {% hint style="info" %}
-Vous pouvez créer un nouveau profil à partir de cet écran en choisissant l'option Nouveau Profil de sauvegarde et le paramétrer directement au niveau du jeu de sauvegarde.
+From this screen you can create a a new profile by choosing the "New Backup Profile" option and setting it directly from the backup set level.
 {% endhint %}
 
+![](../.gitbook/assets/backup-scheduler.gif)
 
+* Backup Scheduler: allows scheduling the launch and frequency of backups at a certain time or/and day of the week or month. 
+* Versions Keeping: allows to indicate the number of versions to keep \(e.g., if the last three versions are kept, in case of backup of a new version, the oldest version will be overwritten to be replaced by the last backup\). 
+* Retention Management: the retention is the period of time during which information is kept, it can be configured in number of days and its use can be customized. 
+* Backup type: the backup can be done on the workstation \(locally\) or locally **and** outsourced.
 
-![](../.gitbook/assets/parametres_sauvegarde.gif)
+It is from this tab that you launch the backup by clicking on START BACKUP.
 
-* Planification des sauvegardes : permet de programmer le lancement et la fréquence des sauvegardes à une certaine heure ou/et un certain jour de la semaine ou du mois.
-* Conservation des versions : permet d'indiquer le nombre de versions à conserver \(exemple : si les trois dernières versions sont conservées, en cas de sauvegarde d'une nouvelle version, la version la plus ancienne sera écrasée pour être remplacée par la dernière sauvegarde\).
-* Gestion de la rétention : la rétention est le laps de temps pendant lequel les informations sont conservées, celle-ci peut être paramétrée en nombre de jours et son mode peut être personnalisé.
-* Type de sauvegarde : la sauvegarde peut se faire sur le poste \(en local\) ou en local **et** externalisée.
+3. Filters Management
 
-3. Paramétrez les filtres
+Filters configuration allows to exclude or include file categories, folders and directories of the backup.  
 
-Le paramétrage des filtres permet d'exclure ou d'inclure des catégories de fichiers, dossiers, répertoires de la sauvegarde.
+![](../.gitbook/assets/filter_management.gif)
 
-![](../.gitbook/assets/parametres_sauvegarde_filtres.gif)
+Some filters may have been created by default and display in the Available column, use the arrows to add them in the Active column. 
 
-Certains filtres peuvent avoir été créés par défaut et apparaissent dans la colonne Disponible\(s\), il suffit alors d'utiliser les flèches pour les ajouter dans la colonne Actif\(s\). 
+You can also define your own filters by using the lower part of the screen. 
 
-Vous pouvez également définir vos propres filtres en utilisant la partie basse de l'écran.
+* Enter the filter name
+* Click "+"
+* Select the filter type: exclude or include \(when backing up\)
+* Enter the extension
+* Click on the floppy disk \(at te end of the filter name\) to save. The filter displays as available and will need to be added to the active column.
 
-* Saisissez le nom de votre filtre
-* Cliquez sur le bouton "+"
-* Choisir le type de filtre : exclure ou inclure \(lors de la sauvegarde\)
-* Saisir l'extension
-* Sauvegarder en cliquant sur la disquette à la fin du nom du filtre. Le filtre apparaîtra comme disponible et devra être ajouter dans la colonne actif\(s\).
+4. Advanced settings
 
-4. Configurez les paramètres avancés
+Advanced settings allow writing script\(s\) to run before or after the backup.  For example it can be a pre-backup verification script or a script to shut down a workstation once the backup is finished. 
 
-Les paramètres avancés vont permettre si besoin d'écrire un ou des scripts à exécuter avant ou après la sauvegarde. Il peut s'agir, par exemple, de script de vérification pré sauvegarde ou un script pour éteindre un poste informatique une fois la sauvegarde effectuée.
+5. Save the configuration.
 
-5. Sauvegarder le paramétrage.
+### Backed up Files Management
 
-### Gestion des fichiers sauvegardés
+The backed up files management allows to restore files according to the filters configured in this screen.  It is also possible to delete files using the same method. See [File Restores](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/restauration/restauration-de-fichiers) for more details.
 
-La gestion des fichiers sauvegardés permet de restaurer des fichiers en fonction des filtres configurés dans cet écran. Il est également possible de supprimer des fichiers en utilisant la même méthode. Voir [Restauration de fichiers](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/restauration/restauration-de-fichiers) pour plus de détails.
+### Logs
 
-### Journaux
-
-Cet onglet ouvre le journal d'activité. La partie gauche permet l'application de filtre \(par exemple, la sélection d'une période, le type d'action, ou de vue\). La partie droite affiche le résultat de la recherche.
+This tab opens the activity log. The left part allows filters application \(e.g., period selection, action or view type\). The right part displays the search result.
 
 
 

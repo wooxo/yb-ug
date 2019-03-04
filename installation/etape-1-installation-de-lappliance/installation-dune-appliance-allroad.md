@@ -1,67 +1,67 @@
-# Installation d'une appliance AllRoad
+# AllRoad Appliance Installation
 
-L'installation d'une appliance AllRoad est simple mais doit être effectuée correctement pour assurer son bon fonctionnement.
+The AllRoad appliance installation is easy but must be performed correctly to ensure proper operation. 
 
-## Vue d'ensemble
+## Overview
 
-### AllRoad Small
+### Small AllRoad 
 
 ![](../../.gitbook/assets/image%20%2817%29.png)
 
-### AllRoad Mini
+### Mini AllRoad
 
-![](../../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
-### Platine connectiques
+### Platinum Connector
 
 ![](../../.gitbook/assets/image%20%2815%29.png)
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-## Contenu du carton
+## Box Content
 
-* Une appliance AllRoad
-* Un cordon d'alimentation \(ou une alimentation externe en fonction du modèle, cf. [Spécifications techniques](../../specifications-techniques.md#appliances-allroad)\)
-* Un cable RJ45
-* Le kit socle \(plaque, pièce de fixation, barillets et clés\)
-* Un onduleur et un câble USB spécifique
-* Une clé USB OneKey Restore
+* A AllRoad appliance
+* A power rope \(or an external power supply depending on the model, e.g., . [Technical Specifications](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/specifications-techniques)\)
+* A cable RJ45
+* The base kit \(tray, fasteners, barrels and keys\)
+* An inverter and a specific USB cable
+* OneKey Restore USB key
 
-## Socle anti-arrachement
+## Anti-Tear Base
 
-La mise en place du socle anti-arrachement est une sécurité supplémentaire pour la protection de vos données. Toutefois, si vous ne souhaitez pas l'utiliser, vous pouvez passer directement à l'étape suivante.
+The installation of the anti-tear base is an additional security for your data protection. However, if you do not want to use it, you can go directly to the next step.
 
-1. Choisir une surface **plane, propre et dégraissée** sur un matériau non arrachable \(à proscrire : moquette, parquet, lino, meuble etc\)
-2. Mettre le socle en position sur la box AllRoad \(**ATTENTION**: il est conseillé de mettre la box sur le flanc et non pas à l'envers, sous peine de risquer d'écraser la partie système du boitier\)
-3. Maintenir en place le socle à l'aide de la pièce de fixation, y glisser les 2 serrures et verrouiller à l'aide des clés fournies.
+1. Choose a **flate**, **clean** and **non greasy** surface on a non peelable material \(to avoid: carpet, parquet, linoleum, furniture, etc...\). 
+2. Position the base on the AllRoad \(**WARNING**: we recommend to position the box on the flank and not upside down to avoid crushing the system part of the case\). 
+3. Hold the base in place with the fastener, slide in the two locks and lock with the provided keys. 
 
 
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
-4. Retirer le film protecteur
+4. Remove the protective film
 
-5. Placer la box à l'endroit désiré \(**ATTENTION** : Bien choisir l'emplacement définitif de la box, car il ne sera plus possible de la déplacer par la suite\). L'adhésif chimique sera totalement actif au bout de 48h.
+5. Put the box at the desire location \(**WARNING**: make sure it is the definitive location, because you won't be able to move the box anymore\). The chimical adhesive will be fully active after 48h.
 
-## Raccordement électrique
+## Electrical Connection
 
-Nous pouvons maintenant procéder au raccordement électrique de la solution :
+We can now proceed to the electrical connection of the solution:
 
-1. Raccorder la box à l'onduleur \(fourni avec la box en fonction de l'offre choisie\)
-2. Raccorder le câble USB de l'onduleur à n'importe quel port USB de l'appliance
-3. Brancher l'onduleur au réseau électrique du client
+1. Connect the box to the inverter \(provided with the box depending on the chosen offer\)
+2. Connect the inverter USB cable to any USB port of the appliance
+3. Connect the inverter to the customer's power grid
 
-## Raccordement réseau
+## Network Connection
 
-Chaque appliance possède deux ports réseau pouvant être utilisés pour l'associer à deux réseaux physiques présents au sein de l'installation.
+Each appliance has two network ports that can be used to associate it to two physical networks present in the installation.
 
-Le port par défaut est indiqué par un autocollant LAN. Si ce n'est pas le cas, il s'agit du port le plus proche du port d'alimentation.
+The default port is indicated by a LAN sticker. If it is not the case, it is the port closest to the power port. 
 
-Une fois l'appliance raccordée physiquement au réseau du client, il va falloir la rendre accessible. Pour cela, 3 solutions :
+Once the appliance physically connected to the customer's network, it must be accessible. For that, 3 solutions: 
 
-1. S'il y a un DHCP et la propagation des noms d'hôtes, la machine sera disponible sur le nom d'hôte "wooxo-desktop"
-2. Vous avez la possibilité d'utiliser WTool qui est un utilitaire créé par Wooxo \([téléchargeable ici](https://www.wooxo.fr/WTool)\), attention si plusieurs appliances sont raccordées.
-3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant : config / mot de passe : config\)
+1. If there is a DHCP and propagation of hostnames, the workstation will be available on the "wooxo-desktop" hostname.
+2. You can use WTool which is an utility created by Wooxo \([downloadable here](https://www.wooxo.fr/WTool)\), pay attention if multiple appliances are connected. 
+3. Directely from the appliance using a keyboard/screen and a maintenance account \(ID: config/password: config\). 
 
 ![](../../.gitbook/assets/image%20%2810%29.png)
 

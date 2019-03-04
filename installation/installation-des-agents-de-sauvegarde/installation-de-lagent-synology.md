@@ -1,20 +1,20 @@
-# Installation de l'agent Synology
+# Synology Agent Installation
 
-Télécharger dans un premier temps l'agent adapté à la bonne architecture depuis l'interface de YooBackup \(cf. [liste des architectures par modèle](https://www.synology.com/fr-fr/knowledgebase/DSM/tutorial/General/What_kind_of_CPU_does_my_NAS_have)\).
+First download the corresponding agent to the right architecture from the YooBackup interface \(see. [liste des architectures par modèle](https://www.synology.com/fr-fr/knowledgebase/DSM/tutorial/General/What_kind_of_CPU_does_my_NAS_have)\).
 
-Se rendre sur l'interface web du Synology à protéger puis, depuis le gestionnaire de paquets, ouvrir l'interface des paramètres pour autoriser l'installation de paquets de "N'importe quel éditeur" :
+Go to the Synology Web interface to protect, then from the package manager, open the configuration interface to allow the package installation from " Any editor": 
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
-Il est désormais possible de déployer l'agent en effectuant une installation manuelle.
+It is now possible to deploy the agent by performing a manual installation.
 
 ![](../../.gitbook/assets/image%20%2811%29.png)
 
-Charger le paquet d'installation.
+Load the installation package.
 
 ![](../../.gitbook/assets/image.png)
 
-Indiquer l'adresse IP de l'appliance YooBackup quand demandé.
+Enter the YooBackup appliance ID when requested. 
 
-Votre agent est à présent disponible dans l'interface YooBackup.
+You agent is now available on the YooBackup interface.
 

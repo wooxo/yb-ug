@@ -1,18 +1,16 @@
-# Configuration de la réplication box to box
+# Configuration of the Box to Box Replication
 
-La configuration de la réplication s'effectue dans l'onglet "Sauvegarde".
+The configuration of the replication is done in the "Backup" tab.
 
-![](../.gitbook/assets/menu-sauvegarde%20%286%29.gif)
+![](../.gitbook/assets/menu_backup%20%283%29.gif)
 
-1. Sélectionnez le jeu de sauvegarde concerné.
+1. Select the appropriate backup set.
 
-![](../.gitbook/assets/recapitulatif-sauvegardes.PNG)
+2. Click the "Backup Settings" tab, and then select "Backup Parameters".
 
-2. Cliquez sur l'onglet "Paramétrage", puis sélectionnez "Paramètres de sauvegarde".
+![](../.gitbook/assets/backup_param.gif)
 
-![](../.gitbook/assets/parametrage-de-sauvegarde.PNG)
+3. Check the box "Externalized".
 
-3. Cochez la case "Externalisée".
-
-![](../.gitbook/assets/profils-de-sauvegarde-replication.PNG)
+![](../.gitbook/assets/option_outsource.gif)
 

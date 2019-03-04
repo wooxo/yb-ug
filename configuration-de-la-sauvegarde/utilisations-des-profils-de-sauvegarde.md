@@ -1,35 +1,35 @@
-# Utilisations des profils de sauvegarde
+# Use of Backup Profiles
 
-Un profil de sauvegarde peut être créé lorsqu'une même stratégie de sauvegarde est souvent utilisée, ceci afin d'éviter de ressaisir le même paramétrage plusieurs fois. Ces profils sont utiles notamment dans le cas d'une stratégie semblable d'un jeu de sauvegarde à un autre. 
+A backup profile can be created when the same backup strategy is often used, in order to avoid re-entering the same configuration multiple times. These profiles are especially used in the cases of similar strategies from one backup set to another.
 
-La création d'un profil s'effectue dans l'onglet "Sauvegarde".
+Profile creation is done in the "Backup" tab.
 
-![](../.gitbook/assets/menu-sauvegarde%20%283%29.gif)
+![](../.gitbook/assets/menu_backup.gif)
 
-#### _Pour créer un nouveau profil de sauvegarde_
+#### _To create a new backup profile_
 
-1. Positionnez-vous __à la racine du parc de sauvegarde.
-2. Sélectionnez l'onglet "Profil de sauvegarde".
-3. Choisir Nouveau profil de sauvegarde.
-4. Saisir le nom du profil.
-5. Définir le paramétrage comme expliqué dans [Configuration d'un jeu de sauvegarde](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde).
-6. Sauvegarder le paramétrage du profil.
+1. Select the root of the backup pool.
+2. Select the tab "Backup Profiles".
+3. Select "New backup profile".
+4. Enter the name of the profile.
+5. Define the configuration as explained in [Backup set Configuration](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde).
+6. Save the configuration of the profile.
 
-![](../.gitbook/assets/new_profil_sauvegarde.gif)
+![](../.gitbook/assets/backup-_profik.gif)
 
 {% hint style="info" %}
-Il est également possible de créer un nouveau profil directement à partir d'un jeu de sauvegarde en sélectionnant Nouveau profil de sauvegarde dans la liste déroulante de l'onglet paramétrage \(voir [Configuration d'un jeu de sauvegarde](https://docs.wooxo.fr/yb-ug/~/edit/drafts/-LQY2yMQRzvgGj5G0ZCF/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde) pour plus d'informations\).
+From the backup set screen you can create a new profile by choosing the "New Backup Profile" in the drop down list of the Settings tab \(see [Backup set Configuration](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde) for more information\).
 {% endhint %}
 
-#### _Appliquer un profil à un jeu de sauvegarde_
+#### _Apply a profile to a backup set_
 
-1. Sélectionnez le jeu de sauvegarde auquel vous voulez appliquer le profil.
-2. Sélectionnez l'onglet Paramétrage.
-3. Sélectionnez les éléments à sauvegarder
-4. Dans Gestionnaire de configuration, sélectionnez le profil créé.
-5. Enregistrer le paramétrage.
+1. Select the backup set to which you want to apply the profile.
+2. Select the Backup Settings tab.
+3. Select the items you want to backup.
+4. In the settings management tab, the profile created.
+5. Save the configuration.
 
-![](../.gitbook/assets/selection_profil.gif)
+![](../.gitbook/assets/profile_backup.gif)
 
 
 

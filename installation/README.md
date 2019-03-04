@@ -1,2 +1,2 @@
-# Installation & activation
+# Installation & Activation
 

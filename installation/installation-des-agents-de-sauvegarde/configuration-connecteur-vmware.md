@@ -1,20 +1,21 @@
-# Configuration connecteur VMware
+# VMware Connector Configuration
 
-Pour réaliser la sauvegarde d'un environnement VMware, il n'est pas nécessaire de déployer un agent sur les hôtes à sauvegarder.
+To perform a VMWare backup environment it is not necessary to deploy an agent on the hosts to be backed up.
 
-Rendez-vous dans l'interface web YooBackup, puis dans l'onglet "Sauvegarde".
+* Go to the YooBackup interface
+* Click on the Backup tab. 
+* Select "Backup park"
+* Click "+" icon.
 
-Sélectionner le "Parc de sauvegarde" puis cliquer sur l'icône +.
+![](../../.gitbook/assets/menu_vmware_connector_config.gif)
 
-![](../../.gitbook/assets/image%20%285%29.png)
+* Select "VMware ESX Backup Agent" in the "Creation Type" drop down list. 
 
-Sélectionner "Agent de sauvegarde VMware ESX" dans la liste déroulante "Type de création".
+![](../../.gitbook/assets/vmware_connector_config.gif)
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+* Enter the agent name you want to create and complete the connection information for the ESX host or vCenter.  
 
-Choisir un nom pour l'agent créé et compléter les informations de connexion de l'hôte ESX ou du vCenter.
-
-Votre agent est à présent disponible dans l'interface YooBackup.
+Your agent is now available in the YooBackup interface.
 
 
 

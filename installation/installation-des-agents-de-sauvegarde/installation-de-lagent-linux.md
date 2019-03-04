@@ -1,20 +1,20 @@
-# Installation de l'agent Linux
+# Linux Agent Installation
 
-Une fois l'agent téléchargé depuis l'interface de YooBackup \(cf. [Installation des agents de sauvegarde](./)\).
+Once the agent is downloaded from the YooBackup interface \( see [Backup Agents Installation](https://docs.yoobackup.fr/~/edit/drafts/-LWjtVvwDwbXk_mJzQSr/v/english/installation/installation-des-agents-de-sauvegarde)\).
 
-Ouvrir un terminal et rendre l'agent exécutable.
+1. Open a terminal and make the agent executable.
 
 ```bash
 chmod +x agent_linux.sh
 ```
 
-Lancer l'installation en tant que root \(ou via sudo\).
+2.Launch the installation as Root \(or via sudo\).
 
 ```text
 ./agent_linux.sh
 ```
 
-L'installation s'effectue, elle vous demandera de saisir l'adresse ip de l'appliance YooBackup.
+The installation is now in progress, you will be asked to enter the YooBackup appliance ID.
 
-Votre agent est à présent disponible dans l'interface YooBackup.
+Your agent is now available in the YooBackup interface.
 

@@ -1,33 +1,30 @@
-# Utilisation serveur de fichiers
+# Use of File Servers
 
- L'utilisation du serveur de fichiers s'effectue dans l'onglet "Serveur de fichiers".
+The use of file servers is done in the "File Server" tab.
 
-![](.gitbook/assets/menu_serveur_fichies.gif)
+![](.gitbook/assets/file_server_menu.gif)
 
-Le serveur de fichiers permet de gérer l'ajout et la suppression de dossiers/répertoires/fichiers et d'attribuer/supprimer des droits d'accès sur ces éléments à certains utilisateurs ou groupes d'utilisateurs.
+The file server is used to manage addition or deletion of folders/directories/files and to assignor remove access rights on these items to some users or groups of users.
 
-La première partie de l'écran affiche la liste des dossiers. En utilisant les icônes "+" et "-" il est possible d'ajouter ou de supprimer un élément.
+The first part of the screen lists the folders. Use the "+" and "-" icon to add or delete item\(s\). 
 
-![](.gitbook/assets/gestion_fichiers.gif)
+![](.gitbook/assets/folder_list.gif)
 
-La deuxième partie de l'écran est dédiée à la gestion des droits d'accès.  
-Le droit propriétaire peut supprimer le répertoire.
+The second part of the screen is dedicated to the access rights management.  
+The owner right can delete the directory.
 
-![](.gitbook/assets/gestion_utilisateurs.gif)
+![](.gitbook/assets/access_right.gif)
 
-Il est possible d'ajouter un  nouvel utilisateur et de lui attribuer des droits d'accès. 
+It is possible to add a new user and assign him access rights.
 
-#### _Pour ajouter un utilisateur_ 
+#### _To add a user_
 
-1. Cliquer sur Gestion des utilisateurs
-2. Cliquer sur le "+" dans la partie Utilisateur  
-
-
-   ![](.gitbook/assets/ajout_utilisateur.gif)
-
-3. Saisissez les informations de connexion ![](.gitbook/assets/utilisateur_info_connexion.gif)  Le groupe primaire correspond au groupe auquel appartient l'utilisateur. Le quotas correspond à la capacité de stockage. 
-4. Cliquez sur Ajouter.
-5. Une fois l'utilisateur créé, sélectionnez le et cliquez sur Droits d'accès pour lui attribuer ses droits \(en lecture, écriture\). 
+1. Click on User Management
+2. Click the "+" in the Users area ![](.gitbook/assets/plus_user.gif) 
+3. Enter the login information  ![](.gitbook/assets/info_user.gif)
+4. The primary group corresponds to the group to which the user belongs. The quotas corresponds to the storage capacity. 
+5. Click Add.
+6. Select the user just created and click on Righ Management to give him access rights \(read, write...\). 
 
 
 
