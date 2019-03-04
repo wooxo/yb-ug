@@ -22,7 +22,7 @@
   * [Configuration d'un jeu de sauvegarde](configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde.md)
   * [Gestion des agents et des groupes](configuration-de-la-sauvegarde/gestion-des-agents-et-des-groupes.md)
   * [Utilisations des profils de sauvegarde](configuration-de-la-sauvegarde/utilisations-des-profils-de-sauvegarde.md)
-* [Sauvegardes avancées](sauvegarde-avancee.md)
+  * [Sauvegardes avancées](configuration-de-la-sauvegarde/sauvegarde-avancee.md)
 * [Restauration](restauration/README.md)
   * [Restauration de fichiers](restauration/restauration-de-fichiers.md)
   * [Restauration OneKeyRestore](restauration/restauration-onekeyrestore.md)
