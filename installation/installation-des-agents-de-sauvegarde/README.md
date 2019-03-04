@@ -6,9 +6,9 @@ Pour télécharger l'agent adéquat, il faut dans un premier temps se rendre sur
 
 ![](../../.gitbook/assets/log-in.PNG)
 
-Il faudra ensuite se rendre dans l'onglet "Téléchargement".
+Il faudra ensuite se rendre dans l'écran "Téléchargement" en cliquant sur ![](../../.gitbook/assets/icone_telecharg.gif). 
 
-![](../../.gitbook/assets/onglet-telechargement.PNG)
+![](../../.gitbook/assets/bt_telechargement.gif)
 
 Les différents agents sont disponibles au téléchargement sur cette page.
 

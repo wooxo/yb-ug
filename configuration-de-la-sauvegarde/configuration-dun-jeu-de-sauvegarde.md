@@ -2,7 +2,7 @@
 
 La configuration d'un jeu de sauvegarde s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde%20%282%29.PNG)
+![](../.gitbook/assets/menu-sauvegarde%20%287%29.gif)
 
 Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer.
 

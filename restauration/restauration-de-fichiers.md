@@ -2,7 +2,7 @@
 
  La restauration de fichiers s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde.PNG)
+![](../.gitbook/assets/menu-sauvegarde%20%284%29.gif)
 
 1. Sélectionnez le jeu de sauvegarde souhaité.
 2. Cliquez sur l'onglet "Gestion des fichiers sauvegardés"

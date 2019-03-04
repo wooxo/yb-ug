@@ -2,6 +2,8 @@
 
  Le changement des identifiants s'effectue dans la partie Administration.
 
+![](../.gitbook/assets/menu_admin%20%283%29.gif)
+
 ![](../.gitbook/assets/admin_changement_identifiant.gif)
 
 1. Choisissez dans la liste déroulante la langue dans laquelle vous voulez afficher l'interface.

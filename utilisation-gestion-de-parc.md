@@ -2,7 +2,7 @@
 
  La gestion de parc s'effectue dans l'onglet "Gestion de parc".
 
-![](.gitbook/assets/onglet-gestionnaire-de-parc.PNG)
+![](.gitbook/assets/menu-getsion_de_parc.gif)
 
 L'écran affiche les informations détaillées sur tout le parc informatique associé à une licence.
 

@@ -2,7 +2,7 @@
 
 La configuration de la réplication s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde%20%283%29.PNG)
+![](../.gitbook/assets/menu-sauvegarde%20%286%29.gif)
 
 1. Sélectionnez le jeu de sauvegarde concerné.
 

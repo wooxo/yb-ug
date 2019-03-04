@@ -2,6 +2,8 @@
 
  L'utilisation du serveur de fichiers s'effectue dans l'onglet "Serveur de fichiers".
 
+![](.gitbook/assets/menu_serveur_fichies.gif)
+
 Le serveur de fichiers permet de gérer l'ajout et la suppression de dossiers/répertoires/fichiers et d'attribuer/supprimer des droits d'accès sur ces éléments à certains utilisateurs ou groupes d'utilisateurs.
 
 La première partie de l'écran affiche la liste des dossiers. En utilisant les icônes "+" et "-" il est possible d'ajouter ou de supprimer un élément.

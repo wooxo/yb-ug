@@ -2,7 +2,7 @@
 
 La gestion des agents et des groupes s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde%20%281%29.PNG)
+![](../.gitbook/assets/menu-sauvegarde%20%281%29.gif)
 
 Les différents agents et jeux de sauvegardes sont listés dans le panneau latéral gauche de l'interface.
 

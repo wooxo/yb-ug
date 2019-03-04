@@ -10,7 +10,7 @@ S'il s'agit de la première fois que vous vous connectez à l'interface web YooB
 2. Valider la configuration réseau de l'interface principale
 3. S'assurer que les ports 443 et 6670 soient ouverts en sortie afin d'assurer le bon fonctionnement de la box et ainsi respecter les [Pré-requis techniques](pre-requis-techniques-1.md#pre-requis-reseau)
 
-![](https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-LE_YoCYu46hn1xUf8H8%2F-LFN4rD7HgCpIQOXoUaw%2F-LFN4rozcB557oEhio6z%2Fimage.png?alt=media&token=cfca4614-9653-4ea6-99bb-ad17623c1eab)
+![](../.gitbook/assets/activation_config_reseau.gif)
 
 ## Etape 2 - Validation de la licence
 

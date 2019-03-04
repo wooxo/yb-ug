@@ -2,7 +2,7 @@
 
 Pour réaliser la sauvegarde d'un environnement VMware, il n'est pas nécessaire de déployer un agent sur les hôtes à sauvegarder.
 
-Rendez-vous dans l'interface web YooBackup, puis dans l'onglet Sauvegarde.
+Rendez-vous dans l'interface web YooBackup, puis dans l'onglet "Sauvegarde".
 
 Sélectionner le "Parc de sauvegarde" puis cliquer sur l'icône +.
 

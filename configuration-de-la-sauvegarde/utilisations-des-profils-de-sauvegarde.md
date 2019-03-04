@@ -1,10 +1,10 @@
 # Utilisations des profils de sauvegarde
 
-Un profil de sauvegarde peut être créé lorsque qu'une même stratégie de sauvegarde est souvent utilisée, ceci afin d'éviter de ressaisir le même paramétrage plusieurs fois. Ces profils sont utiles notamment dans le cas d'une stratégie semblable d'un jeu de sauvegarde à un autre. 
+Un profil de sauvegarde peut être créé lorsqu'une même stratégie de sauvegarde est souvent utilisée, ceci afin d'éviter de ressaisir le même paramétrage plusieurs fois. Ces profils sont utiles notamment dans le cas d'une stratégie semblable d'un jeu de sauvegarde à un autre. 
 
 La création d'un profil s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde%20%282%29.PNG)
+![](../.gitbook/assets/menu-sauvegarde%20%283%29.gif)
 
 #### _Pour créer un nouveau profil de sauvegarde_
 

@@ -4,7 +4,7 @@ La procédure de restauration d'une machine virtuelle est la même que celle uti
 
  La restauration de la machine s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/onglet-sauvegarde.PNG)
+![](../.gitbook/assets/menu-sauvegarde.gif)
 
 1. Sélectionnez le jeu de sauvegarde souhaité.
 2. Cliquez sur l'onglet "Gestion des fichiers sauvegardés"
