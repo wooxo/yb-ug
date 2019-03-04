@@ -22,7 +22,7 @@
   * [Backup set Configuration](configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde.md)
   * [Agents and Groups Management](configuration-de-la-sauvegarde/gestion-des-agents-et-des-groupes.md)
   * [Use of Backup Profiles](configuration-de-la-sauvegarde/utilisations-des-profils-de-sauvegarde.md)
-* [Advanced Backup](advanced-backup.md)
+  * [Advanced Backup](configuration-de-la-sauvegarde/advanced-backup.md)
 * [Restore](restauration/README.md)
   * [File Restores](restauration/restauration-de-fichiers.md)
   * [OneKeyRestore](restauration/restauration-onekeyrestore.md)
