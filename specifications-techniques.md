@@ -36,14 +36,14 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
-      <td style="text-align:center">4Gb DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
+      <td style="text-align:center">4GB DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Network</b>
@@ -166,9 +166,9 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">32 Gb DDR4</td>
-      <td style="text-align:center">32 Gb DDR4</td>
-      <td style="text-align:center">32 Gb DDR4</td>
+      <td style="text-align:center">32 GB DDR4</td>
+      <td style="text-align:center">32 GB DDR4</td>
+      <td style="text-align:center">32 GB DDR4</td>
       <td style="text-align:center">
         <p>32 GB</p>
         <p>DDR4</p>
@@ -194,13 +194,13 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left"><b>System Volume</b>
       </td>
       <td style="text-align:center">RAID1
-        <br />2x128 Gb SSD</td>
+        <br />2x128 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Gb SSD</td>
+        <br />2x128 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Gb SSD</td>
+        <br />2x128 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x128 Gb SSD</td>
+        <br />2x128 GB SSD</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Data System</b>
@@ -287,14 +287,14 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
-      <td style="text-align:center">4 Gb DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
+      <td style="text-align:center">4 GB DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Network</b>
@@ -427,13 +427,13 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>RAM</b>
       </td>
-      <td style="text-align:center">16Gb DDR4 ECC</td>
-      <td style="text-align:center">16Gb DDR4 ECC</td>
-      <td style="text-align:center">16Gb DDR4 ECC</td>
-      <td style="text-align:center">32Gb DDR4 ECC</td>
-      <td style="text-align:center">32Gb DDR4 ECC</td>
-      <td style="text-align:center">64Gb DDR4 ECC</td>
-      <td style="text-align:center">64Gb DDR4 ECC</td>
+      <td style="text-align:center">16GB DDR4 ECC</td>
+      <td style="text-align:center">16GB DDR4 ECC</td>
+      <td style="text-align:center">16GB DDR4 ECC</td>
+      <td style="text-align:center">32GB DDR4 ECC</td>
+      <td style="text-align:center">32GB DDR4 ECC</td>
+      <td style="text-align:center">64GB DDR4 ECC</td>
+      <td style="text-align:center">64GB DDR4 ECC</td>
       <td style="text-align:center">64Go DDR4 ECC</td>
     </tr>
     <tr>
@@ -452,21 +452,21 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left"><b>System Volume</b>
       </td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x240 Gb SSD</td>
+        <br />2x240 GB SSD</td>
       <td style="text-align:center">RAID1
-        <br />2x480 Gb SSD</td>
+        <br />2x480 GB SSD</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Data System</b>
