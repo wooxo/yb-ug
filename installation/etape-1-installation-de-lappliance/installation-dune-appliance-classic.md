@@ -10,7 +10,7 @@ L'installation d'une appliance Classic est simple mais doit être effectuée cor
 
 ### Platine connectiques
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## Contenu du carton
 
@@ -40,5 +40,5 @@ Une fois l'appliance raccordée physiquement au réseau du client, il va falloir
 2. Vous avez la possibilité d'utiliser WTool qui est un utilitaire créé par Wooxo \([téléchargeable ici](https://wooxo.fr/WTool)\) 
 3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant : config / mot de passe: config\)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 

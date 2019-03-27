@@ -6,17 +6,17 @@ L'installation d'une appliance AllRoad est simple mais doit être effectuée cor
 
 ### AllRoad Small
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ### AllRoad Mini
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Platine connectiques
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ## Contenu du carton
 
@@ -37,7 +37,7 @@ La mise en place du socle anti-arrachement est une sécurité supplémentaire po
 
 
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 4. Retirer le film protecteur
 
@@ -63,7 +63,7 @@ Une fois l'appliance raccordée physiquement au réseau du client, il va falloir
 2. Vous avez la possibilité d'utiliser WTool qui est un utilitaire créé par Wooxo \([téléchargeable ici](https://www.wooxo.fr/WTool)\), attention si plusieurs appliances sont raccordées.
 3. Directement depuis l'appliance à l'aide d'un clavier/écran et du compte de maintenance \(identifiant : config / mot de passe : config\)
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 
 

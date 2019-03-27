@@ -4,11 +4,11 @@ Télécharger dans un premier temps l'agent adapté à la bonne architecture dep
 
 Se rendre sur l'interface web du Synology à protéger puis, depuis le gestionnaire de paquets, ouvrir l'interface des paramètres pour autoriser l'installation de paquets de "N'importe quel éditeur" :
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 Il est désormais possible de déployer l'agent en effectuant une installation manuelle.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 Charger le paquet d'installation.
 
