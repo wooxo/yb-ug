@@ -19,7 +19,7 @@
 * Fedora 22 jusqu'à Fedora 28 
 * CentOs 6 jusqu'à CentOS 7
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 * A partir de DSM 6
 * Architecture x86\_x64 et et armada370
@@ -39,7 +39,7 @@
   * Windows Server 2008 R2 / Windows Server 2012 / Windows Server 2012 R2
   * Pas de support des clusters
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 * VMware vSphere
   * Version 4.1 à 6.7

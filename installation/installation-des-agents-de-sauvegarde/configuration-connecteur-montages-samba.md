@@ -8,7 +8,7 @@ Si l'agent ne s'est pas déployé, vous pouvez vous rendre dans l'administration
 
 Une fois l'agent disponible, il suffit de le sélectionner:
 
-![](../../.gitbook/assets/image%20%2832%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 De se rendre dans l'onglet "Partages distant" sur la droite :
 
