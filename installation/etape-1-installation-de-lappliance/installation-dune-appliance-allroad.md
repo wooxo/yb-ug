@@ -37,7 +37,7 @@ The installation of the anti-tear base is an additional security for your data p
 
 
 
-![](../../.gitbook/assets/image%20%2835%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 4. Remove the protective film
 

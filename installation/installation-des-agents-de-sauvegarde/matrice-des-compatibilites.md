@@ -39,7 +39,7 @@
   * Windows Server 2008 R2 / Windows Server 2012 / Windows Server 2012 R2
   * No cluster support
 
-![](../../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 * VMware vSphere
   * Version 4.1 à 6.7

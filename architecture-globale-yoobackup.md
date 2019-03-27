@@ -37,5 +37,5 @@ All data physically stored on the appliance is encrypted, compressed and broken 
 
 ## Technical Components
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
