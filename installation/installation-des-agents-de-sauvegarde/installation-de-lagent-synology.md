@@ -4,11 +4,11 @@ First download the corresponding agent to the right architecture from the YooBac
 
 Go to the Synology Web interface to protect, then from the package manager, open the configuration interface to allow the package installation from " Any editor": 
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2835%29.png)
 
 It is now possible to deploy the agent by performing a manual installation.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 Load the installation package.
 

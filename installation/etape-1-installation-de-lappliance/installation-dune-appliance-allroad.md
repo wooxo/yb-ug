@@ -6,17 +6,17 @@ The AllRoad appliance installation is easy but must be performed correctly to en
 
 ### Small AllRoad 
 
-![](../../.gitbook/assets/image%20%2817%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 ### Mini AllRoad
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 ### Platinum Connector
 
-![](../../.gitbook/assets/image%20%2815%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 ## Box Content
 
@@ -37,7 +37,7 @@ The installation of the anti-tear base is an additional security for your data p
 
 
 
-![](../../.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2838%29.png)
 
 4. Remove the protective film
 
@@ -63,7 +63,7 @@ Once the appliance physically connected to the customer's network, it must be ac
 2. You can use WTool which is an utility created by Wooxo \([downloadable here](https://www.wooxo.fr/WTool)\), pay attention if multiple appliances are connected. 
 3. Directely from the appliance using a keyboard/screen and a maintenance account \(ID: config/password: config\). 
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 
 
 

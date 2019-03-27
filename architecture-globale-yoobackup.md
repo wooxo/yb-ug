@@ -2,7 +2,7 @@
 
 ## General Information
 
-![](.gitbook/assets/image%20%2813%29.png)
+![](.gitbook/assets/image%20%287%29.png)
 
 ### Overal Operation
 
@@ -37,5 +37,5 @@ All data physically stored on the appliance is encrypted, compressed and broken 
 
 ## Technical Components
 
-![](.gitbook/assets/image%20%2835%29.png)
+![](.gitbook/assets/image%20%2836%29.png)
 

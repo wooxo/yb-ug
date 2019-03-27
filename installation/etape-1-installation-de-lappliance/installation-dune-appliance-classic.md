@@ -10,7 +10,7 @@ The Classic appliance installation is easy but must be performed correctly to en
 
 ### Platinum Connector <a id="platinum-connector"></a>
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2815%29.png)
 
 ## Box Content
 
@@ -40,5 +40,5 @@ Once the appliance physically connected to the customer's network, it must be ac
 2. You can use WTool which is an utility created by Wooxo \([downloadable here](https://www.wooxo.fr/WTool)\), pay attention if multiple appliances are connected. 
 3. Directely from the appliance using a keyboard/screen and a maintenance account \(ID: config/password: config\).
 
-![](../../.gitbook/assets/image%20%2810%29.png)
+![](../../.gitbook/assets/image%20%2811%29.png)
 

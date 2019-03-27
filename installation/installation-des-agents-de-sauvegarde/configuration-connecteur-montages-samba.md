@@ -8,7 +8,7 @@ If the agent is not deployed, you can go back to the administration and force it
 
 * Once the agent available, select it:
 
-![](../../.gitbook/assets/image%20%2833%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 * Then go to  "Remote share" on the right:
 
