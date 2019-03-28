@@ -22,29 +22,29 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">IP</th>
+      <th style="text-align:left">Hostname</th>
       <th style="text-align:left">Port(s) TCP</th>
       <th style="text-align:left">Description</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">178.33.43.186</td>
+      <td style="text-align:left">api.wooxo.fr</td>
       <td style="text-align:left">443</td>
       <td style="text-align:left">Monitoring mat&#xE9;riel</td>
     </tr>
     <tr>
-      <td style="text-align:left">46.18.210.130</td>
+      <td style="text-align:left">secure.wooxo.fr</td>
       <td style="text-align:left">443</td>
       <td style="text-align:left">Activation des licences</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.245.232</td>
+      <td style="text-align:left">portail.wooxo.fr</td>
       <td style="text-align:left">443</td>
       <td style="text-align:left">Monitoring logiciel</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.239.163</td>
+      <td style="text-align:left">m0.wooxo.fr</td>
       <td style="text-align:left">
         <p>6670 ou</p>
         <p>443 ou</p>
@@ -57,32 +57,24 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       <td style="text-align:left">Prise en main maintenance (Support)</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.245.153</td>
+      <td style="text-align:left">dn03.wooxo.fr</td>
       <td style="text-align:left">6670</td>
       <td style="text-align:left">Brique datacenter YooBackup
         <br />(alertes et externalisation)</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.240.200</td>
+      <td style="text-align:left">repo.wooxo.fr</td>
       <td style="text-align:left">
         <p>443 ou</p>
-        <p>80 ou</p>
-        <p>21 ou</p>
-        <p>123 ou</p>
-        <p>1720 ou</p>
-        <p>1723</p>
+        <p>80</p>
       </td>
       <td style="text-align:left">Serveur mise &#xE0; jour YooBackup</td>
     </tr>
     <tr>
-      <td style="text-align:left">167.114.251.186</td>
+      <td style="text-align:left">update.wooxo.fr</td>
       <td style="text-align:left">
         <p>443 ou</p>
-        <p>80 ou</p>
-        <p>21 ou</p>
-        <p>123 ou</p>
-        <p>1720 ou</p>
-        <p>1723</p>
+        <p>80</p>
       </td>
       <td style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</td>
     </tr>
