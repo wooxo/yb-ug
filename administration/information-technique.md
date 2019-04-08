@@ -7,7 +7,7 @@ Les informations techniques se trouvent dans la partie Administration.
 Cette partie 
 
 * fournit le numéro de licence, 
-* indique les numéros de versions des différents composants et 
+* indique les numéros de versions des différents modules et 
 * permet la génération et signature du rapport de configuration.
 
 ![](../.gitbook/assets/info_tech.gif)
