@@ -6,7 +6,7 @@ Appliances must be placed in an environment suitable to hardware working:
 
 * Do not expose to the sun or any flame 
 * Do not expose to any liquid
-* Make sure the ambiant temperature is between 15° and 30° when operating
+* Make sure the ambiant temperature is between 5° and 50° when operating
 * Connect the equipment via the inverter \(if supplied\) to an electrical network that respects the standards in force 
 
 In case of exposition to any flame or liquid, please contact as soon as possible the Wooxo Helpdesk and do not try to intervene by yourself.
