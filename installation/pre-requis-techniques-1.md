@@ -19,27 +19,33 @@ Tout fonctionnement "hors-cadre" entrainera une révocation de la garantie.
 
 L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour récupérer les mises à jour, remonter les alertes et permettre le monitoring des solutions.
 
-| Hostname | Port\(s\) TCP | Description |
-| :--- | :--- | :--- |
-
-
-| api.wooxo.fr | 443 | Monitoring matériel |
-| :--- | :--- | :--- |
-
-
-| secure.wooxo.fr | 443 | Activation des licences |
-| :--- | :--- | :--- |
-
-
-| portail.wooxo.fr | 443 | Monitoring logiciel |
-| :--- | :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">m0.wooxo.fr</th>
-      <th style="text-align:left">
+      <th style="text-align:left">Hostname</th>
+      <th style="text-align:left">Port(s) TCP</th>
+      <th style="text-align:left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">api.wooxo.fr</td>
+      <td style="text-align:left">443</td>
+      <td style="text-align:left">Monitoring mat&#xE9;riel</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">secure.wooxo.fr</td>
+      <td style="text-align:left">443</td>
+      <td style="text-align:left">Activation des licences</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">portail.wooxo.fr</td>
+      <td style="text-align:left">443</td>
+      <td style="text-align:left">Monitoring logiciel</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">m0.wooxo.fr</td>
+      <td style="text-align:left">
         <p>6670 ou</p>
         <p>443 ou</p>
         <p>80 ou</p>
@@ -47,40 +53,34 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
         <p>123 ou</p>
         <p>1720 ou</p>
         <p>1723</p>
-      </th>
-      <th style="text-align:left">Prise en main maintenance (Support)</th>
+      </td>
+      <td style="text-align:left">Prise en main maintenance (Support)</td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>| dn03.wooxo.fr | 6670 | Brique datacenter YooBackup \(alertes et externalisation\) |
-| :--- | :--- | :--- |
-
-
-<table>
-  <thead>
     <tr>
-      <th style="text-align:left">repo.wooxo.fr</th>
-      <th style="text-align:left">
+      <td style="text-align:left">dn03.wooxo.fr</td>
+      <td style="text-align:left">6670</td>
+      <td style="text-align:left">Brique datacenter YooBackup (alertes et externalisation)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">repo.wooxo.fr</td>
+      <td style="text-align:left">
         <p>443 ou</p>
         <p>80</p>
-      </th>
-      <th style="text-align:left">Serveur mise &#xE0; jour YooBackup</th>
+      </td>
+      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup</td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">update.wooxo.fr</th>
-      <th style="text-align:left">
+      <td style="text-align:left">packet.wooxo.fr</td>
+      <td style="text-align:left">
         <p>443 ou</p>
         <p>80</p>
-      </th>
-      <th style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</th>
+      </td>
+      <td style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>La communication utilise le port 6670 en TCP.
+  </tbody>
+</table>### Communication  appliance -&gt; agent de sauvegarde
+
+La communication utilise le port 6675 en TCP.
 
 ### Communication agent de sauvegarde -&gt; appliance ou datacentre
 
