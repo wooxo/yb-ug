@@ -398,6 +398,7 @@ description: Spécifications techniques des différentes box.
   <thead>
     <tr>
       <th style="text-align:left">Mod&#xE8;le</th>
+      <th style="text-align:center">Backstone 12To</th>
       <th style="text-align:center">Backstone 12To LTO</th>
       <th style="text-align:center">Backstone 12To RDX</th>
       <th style="text-align:center">Backstone 24To</th>
@@ -415,6 +416,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel Xeon 2630v3</td>
       <td style="text-align:center">Intel Xeon 2630v3</td>
       <td style="text-align:center">Intel Xeon 2630v3</td>
+      <td style="text-align:center">Intel Xeon 2630v3</td>
       <td style="text-align:center">2x Intel Xeon 2630v3</td>
       <td style="text-align:center">2x Intel Xeon 2630v3</td>
       <td style="text-align:center">2x Intel Xeon 2630v3</td>
@@ -427,6 +429,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">16Go DDR4 ECC</td>
       <td style="text-align:center">16Go DDR4 ECC</td>
       <td style="text-align:center">16Go DDR4 ECC</td>
+      <td style="text-align:center">16Go DDR4 ECC</td>
       <td style="text-align:center">32Go DDR4 ECC</td>
       <td style="text-align:center">32Go DDR4 ECC</td>
       <td style="text-align:center">64Go DDR4 ECC</td>
@@ -436,6 +439,7 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>R&#xE9;seau</b>
       </td>
+      <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
@@ -463,11 +467,15 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">RAID1
         <br />2x240 Go SSD</td>
       <td style="text-align:center">RAID1
+        <br />2x240 Go SSD</td>
+      <td style="text-align:center">RAID1
         <br />2x480 Go SSD</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume donn&#xE9;es</b>
       </td>
+      <td style="text-align:center">RAID5
+        <br />3x6To SATA</td>
       <td style="text-align:center">RAID5
         <br />3x6To SATA</td>
       <td style="text-align:center">RAID5
@@ -492,6 +500,7 @@ description: Spécifications techniques des différentes box.
         <p><b>M&#xE9;dia</b>
         </p>
       </td>
+      <td style="text-align:center">Aucun</td>
       <td style="text-align:center">Lecteur interne LTO7</td>
       <td style="text-align:center">Lecteur interne RDX</td>
       <td style="text-align:center">Connecteur SAS externe</td>
@@ -504,6 +513,7 @@ description: Spécifications techniques des différentes box.
     <tr>
       <td style="text-align:left"><b>Format</b>
       </td>
+      <td style="text-align:center">Rackable 1U</td>
       <td style="text-align:center">Rackable 3U</td>
       <td style="text-align:center">Rackable 3U</td>
       <td style="text-align:center">Rackable 2U</td>
