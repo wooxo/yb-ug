@@ -401,6 +401,7 @@ description: Technical Specifications of the various boxes
   <thead>
     <tr>
       <th style="text-align:left">Type</th>
+      <th style="text-align:left">Backstone 12TB</th>
       <th style="text-align:left">Backstone 12TB LTO</th>
       <th style="text-align:left">Backstone 12TB RDX</th>
       <th style="text-align:left">Backstone 24TB</th>
@@ -418,6 +419,7 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left">Intel Xeon 2630v3</td>
       <td style="text-align:left">Intel Xeon 2630v3</td>
       <td style="text-align:left">Intel Xeon 2630v3</td>
+      <td style="text-align:left">Intel Xeon 2630v3</td>
       <td style="text-align:left">2x Intel Xeon 2630v3</td>
       <td style="text-align:left">2x Intel Xeon 2630v3</td>
       <td style="text-align:left">2x Intel Xeon 2630v3</td>
@@ -430,6 +432,7 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left">16GB DDR4 ECC</td>
       <td style="text-align:left">16GB DDR4 ECC</td>
       <td style="text-align:left">16GB DDR4 ECC</td>
+      <td style="text-align:left">16GB DDR4 ECC</td>
       <td style="text-align:left">32GB DDR4 ECC</td>
       <td style="text-align:left">32GB DDR4 ECC</td>
       <td style="text-align:left">64GB DDR4 ECC</td>
@@ -439,6 +442,7 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>Network</b>
       </td>
+      <td style="text-align:left">2x 1GbE</td>
       <td style="text-align:left">2x 1GbE</td>
       <td style="text-align:left">2x 1GbE</td>
       <td style="text-align:left">2x 1GbE</td>
@@ -466,11 +470,15 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left">RAID1
         <br />2x240 GB SSD</td>
       <td style="text-align:left">RAID1
+        <br />2x240 GB SSD</td>
+      <td style="text-align:left">RAID1
         <br />2x480 GB SSD</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Data System</b>
       </td>
+      <td style="text-align:left">RAID5
+        <br />3x6TB SATA</td>
       <td style="text-align:left">RAID5
         <br />3x6TB SATA</td>
       <td style="text-align:left">RAID5
@@ -491,6 +499,7 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>Media Band</b>
       </td>
+      <td style="text-align:left">No</td>
       <td style="text-align:left">Internal Player
         <br />LTO7</td>
       <td style="text-align:left">
@@ -507,6 +516,7 @@ description: Technical Specifications of the various boxes
     <tr>
       <td style="text-align:left"><b>Format</b>
       </td>
+      <td style="text-align:left">Rackable 1U</td>
       <td style="text-align:left">Rackable 3U</td>
       <td style="text-align:left">Rackable 3U</td>
       <td style="text-align:left">Rackable 2U</td>
