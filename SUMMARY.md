@@ -26,6 +26,7 @@
 * [Restore](restauration/README.md)
   * [File Restores](restauration/restauration-de-fichiers.md)
   * [OneKeyRestore](restauration/restauration-onekeyrestore.md)
+  * [Virtual Disk](restauration/virtual-disk.md)
   * [VMware Restore](restauration/restauration-de-machine-virtuelle-vmware.md)
 * [OneClick Restart](oneclickrestart/README.md)
   * [Concept](oneclickrestart/concept.md)
