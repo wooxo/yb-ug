@@ -25,6 +25,7 @@
   * [Sauvegardes avancées](configuration-de-la-sauvegarde/sauvegarde-avancee.md)
 * [Restauration](restauration/README.md)
   * [Restauration de fichiers](restauration/restauration-de-fichiers.md)
+  * [Restauration granulaire](restauration/disques-virtuels.md)
   * [Restauration OneKeyRestore](restauration/restauration-onekeyrestore.md)
   * [Restauration de machine virtuelle VMware](restauration/restauration-de-machine-virtuelle-vmware.md)
 * [OneClick Restart](oneclickrestart/README.md)
