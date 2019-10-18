@@ -135,7 +135,7 @@ description: Technical Specifications of the various boxes
       <td style="text-align:left">315 x 235 x 250 mm
         <br />14 kg</td>
       <td style="text-align:left">315 x 235 x 250 mm 14 kg</td>
-      <td style="text-align:left">315 x 235 x 250 mm 14 kg</td>
+      <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
       <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
       <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
       <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
