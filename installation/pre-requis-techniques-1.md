@@ -80,7 +80,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
   </tbody>
 </table>### Communication  appliance -&gt; agent de sauvegarde
 
-La communication utilise le port 6675 en TCP.
+La communication utilise le port 6680 en TCP.
 
 ### Communication agent de sauvegarde -&gt; appliance ou datacentre
 
