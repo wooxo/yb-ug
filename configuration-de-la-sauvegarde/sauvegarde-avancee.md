@@ -7,8 +7,8 @@ Les différents types de sauvegarde avancée sont :
 Pour effectuer une sauvegarde de machine virtuelles Hyper-V : 
 
 * Installer les agents sur les machines hôtes
-* Sélectionner les fichiers VHD/A VHD
-* Associer une seule machine virtuelle par job de sauvegarde.
+* Sauvegarde volume du serveur
+* Sauvegarde volume des VMs
 {% endtab %}
 
 {% tab title="SQL Server" %}
