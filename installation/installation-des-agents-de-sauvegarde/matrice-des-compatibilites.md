@@ -36,7 +36,7 @@
 ![](../../.gitbook/assets/image%20%289%29.png)
 
 * Hyper-V: 
-  * Windows Server 2008 R2 / Windows Server 2012 / Windows Server 2012 R2
+  * À partir de Windows Server 2008 R2
   * Pas de support des clusters
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
