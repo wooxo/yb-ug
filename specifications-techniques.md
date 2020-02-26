@@ -437,7 +437,160 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:left">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
-</table>## ​Appliances Atempo Backstone
+</table>## Box Wooxo Continuity / Classic
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left">Mod&#xE8;le</th>
+      <th style="text-align:center">Classic 1To</th>
+      <th style="text-align:center">Classic 2To</th>
+      <th style="text-align:center">Classic 4To</th>
+      <th style="text-align:center">Classic 6To</th>
+      <th style="text-align:center">Classic 8To</th>
+      <th style="text-align:center">Classic 10To</th>
+      <th style="text-align:center">Classic 12To</th>
+      <th style="text-align:center">Classic 14To</th>
+      <th style="text-align:left">Classic 16To</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Processeur</b>
+      </td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Celeron&#xAE; J1900</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:left">Intel&#xAE; Pentium&#xAE; G3420T</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>M&#xE9;moire vive</b>
+      </td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:left">4 Go DDR3</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>R&#xE9;seau</b>
+      </td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:left">2x 1GbE</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Alimentation</b>
+      </td>
+      <td style="text-align:center">Externe 60 watts</td>
+      <td style="text-align:center">Externe 60 watts</td>
+      <td style="text-align:center">Externe 60 watts</td>
+      <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:left">Interne 180 watts</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Volume syst&#xE8;me</b>
+      </td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:left">SSD MSATA 8Go</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Volume donn&#xE9;es</b>
+      </td>
+      <td style="text-align:center">RAID1 2x1To 5900RPM</td>
+      <td style="text-align:center">RAID1 2x2To 5900RPM</td>
+      <td style="text-align:center">RAID1 2x4To 5900RPM</td>
+      <td style="text-align:center">RAID1 2x6To 7200RPM</td>
+      <td style="text-align:center">RAID1 2x8To 7200RPM</td>
+      <td style="text-align:center">RAID1 2x10To 7200RPM</td>
+      <td style="text-align:center">RAID1 2x12To
+        <br />7200RPM</td>
+      <td style="text-align:center">RAID1 2x14To
+        <br />7200RPM</td>
+      <td style="text-align:left">RAID1 2x14To
+        <br />7200RPM</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Refroidissement</b>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:center">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+      <td style="text-align:left">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Dimensions et poids</b>
+      </td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:left">270 x 53 x 187 mm 3kg</td>
+    </tr>
+  </tbody>
+</table>## Appliances Atempo Backstone
 
 <table>
   <thead>
