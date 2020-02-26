@@ -7,7 +7,7 @@ Les appliances doivent être placées dans un environnement adapté au fonctionn
 * Ne pas exposer au soleil ou à toute flamme 
 * Ne pas exposer à tout liquide quel qu'il soit
 * Veiller à maintenir une température ambiante comprise entre 5 et 50 ˚C en fonctionnement.
-* Raccorder l'équipement via le plug à un réseau électrique aux normes en vigueur 
+* Raccorder l'équipement via l'onduleur \(si fourni\) à un réseau électrique aux normes en vigueur 
 
 En cas d'exposition à une flamme ou à tout liquide merci de vous rapprocher au plus tôt du Support Wooxo et ne pas intervenir en autonomie.
 

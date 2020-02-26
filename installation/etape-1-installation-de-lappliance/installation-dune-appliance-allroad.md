@@ -47,9 +47,9 @@ La mise en place du socle anti-arrachement est une sécurité supplémentaire po
 
 Nous pouvons maintenant procéder au raccordement électrique de la solution :
 
-1. Raccorder la box à l'onduleur \(fourni avec la box en fonction de l'offre choisie\)
-2. Raccorder le câble USB de l'onduleur à n'importe quel port USB de l'appliance
-3. Brancher l'onduleur au réseau électrique du client
+1. Raccorder la box au plug \(fourni avec la box en fonction de l'offre choisie\)
+2. Raccorder le câble USB du plug à n'importe quel port USB de l'appliance
+3. Brancher le plug au réseau électrique du client
 
 ## Raccordement réseau
 
