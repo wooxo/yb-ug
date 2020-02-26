@@ -24,7 +24,7 @@ L'installation d'une appliance AllRoad est simple mais doit être effectuée cor
 * Un cordon d'alimentation \(ou une alimentation externe en fonction du modèle, cf. [Spécifications techniques](../../specifications-techniques.md#appliances-allroad)\)
 * Un cable RJ45
 * Le kit socle \(plaque, pièce de fixation, barillets et clés\)
-* Un onduleur et un câble USB spécifique
+* Un Plug et un câble USB spécifique
 * Une clé USB OneKey Restore
 
 ## Socle anti-arrachement
