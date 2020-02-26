@@ -437,7 +437,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:left">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
-</table>## Box Wooxo Continuity / Classic Premium
+</table>## Box Wooxo Continuity Premium
 
 <table>
   <thead>
