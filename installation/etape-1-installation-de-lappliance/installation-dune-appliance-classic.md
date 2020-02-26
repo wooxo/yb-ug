@@ -17,16 +17,16 @@ L'installation d'une appliance Classic est simple mais doit être effectuée cor
 * Une appliance Classic
 * Un cordon d'alimentation \(ou une alimentation externe en fonction du modèle, cf. [Spécifications techniques](../../specifications-techniques.md#appliances-allroad)\)
 * Un cable RJ45
-* Un onduleur et un câble USB spécifique
+* Un Plug et un câble USB spécifique
 * OneKey Restore
 
 ## Raccordement électrique
 
 Nous pouvons maintenant procéder au raccordement électrique de la solution:
 
-1. Raccorder la box à l'onduleur \(fourni avec la box en fonction de l'offre choisie\).
-2. Raccorder le câble USB de l'onduleur à n'importe quel port USB de l'appliance
-3. Brancher l'onduleur au réseau électrique du client
+1. Raccorder la box au plug \(fourni avec la box en fonction de l'offre choisie\).
+2. Raccorder le câble USB du plug à n'importe quel port USB de l'appliance
+3. Brancher le plug au réseau électrique du client
 
 ## Raccordement réseau
 
