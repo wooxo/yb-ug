@@ -1,4 +1,4 @@
-# Installation d'une appliance Classic
+# Installation d'une appliance Continuity ou Classic
 
 L'installation d'une appliance Classic est simple mais doit être effectuée correctement pour assurer son bon fonctionnement.
 

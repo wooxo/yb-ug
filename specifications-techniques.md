@@ -18,6 +18,10 @@ description: Spécifications techniques des différentes box.
       <th style="text-align:center">AllRoad 10To</th>
       <th style="text-align:center">AllRoad 12To</th>
       <th style="text-align:center">AllRoad 14To</th>
+      <th style="text-align:left">
+        <p>Allroad</p>
+        <p>16To</p>
+      </th>
     </tr>
   </thead>
   <tbody>
@@ -32,6 +36,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:left">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>M&#xE9;moire vive</b>
@@ -44,6 +49,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">4Go DDR3</td>
       <td style="text-align:center">4Go DDR3</td>
       <td style="text-align:center">4Go DDR3</td>
+      <td style="text-align:left">4Go DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>R&#xE9;seau</b>
@@ -56,6 +62,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:left">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -68,6 +75,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
       <td style="text-align:center">Interne 180 watts</td>
       <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:left">Interne 180 watts</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume syst&#xE8;me</b>
@@ -80,6 +88,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
+      <td style="text-align:left">SSD MSATA 64Go</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume donn&#xE9;es</b>
@@ -93,6 +102,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">RAID1 2x10To 7200RPM</td>
       <td style="text-align:center">RAID1 2x12To 7200RPM</td>
       <td style="text-align:center">RAID1 2x14To 7200RPM</td>
+      <td style="text-align:left">RAID1 2x14To 7200RPM</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Refroidissement</b>
@@ -126,6 +136,10 @@ description: Spécifications techniques des différentes box.
         <p>Actif</p>
         <p>Ventilateur</p>
       </td>
+      <td style="text-align:left">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Dimensions et poids</b>
@@ -140,6 +154,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">451 x 255 x 317 mm 23 kg</td>
       <td style="text-align:center">451 x 255 x 317 mm 23 kg</td>
       <td style="text-align:center">451 x 255 x 317 mm 23 kg</td>
+      <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
     </tr>
   </tbody>
 </table>## Box Wooxo AllRoad Premium
@@ -152,6 +167,7 @@ description: Spécifications techniques des différentes box.
       <th style="text-align:center">AllRoad 20To</th>
       <th style="text-align:center">AllRoad 24To</th>
       <th style="text-align:center">AllRoad 28To</th>
+      <th style="text-align:left">AllRoad 32To</th>
     </tr>
   </thead>
   <tbody>
@@ -162,6 +178,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
       <td style="text-align:center">Intel&#xAE; Core&#xAE; i7-7700k</td>
+      <td style="text-align:left">Intel&#xAE; Core&#xAE; i7-7700k</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>M&#xE9;moire vive</b>
@@ -170,6 +187,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">32 Go DDR4</td>
       <td style="text-align:center">32 Go DDR4</td>
       <td style="text-align:center">32 Go DDR4</td>
+      <td style="text-align:left">32 Go DDR4</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>R&#xE9;seau</b>
@@ -178,6 +196,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:left">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -186,6 +205,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 220 watts</td>
       <td style="text-align:center">Interne 220 watts</td>
       <td style="text-align:center">Interne 220 watts</td>
+      <td style="text-align:left">Interne 220 watts</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume syst&#xE8;me</b>
@@ -198,6 +218,8 @@ description: Spécifications techniques des différentes box.
         <br />2x128 Go SSD</td>
       <td style="text-align:center">RAID1
         <br />2x128 Go SSD</td>
+      <td style="text-align:left">RAID1
+        <br />2x128 Go SSD</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume donn&#xE9;es</b>
@@ -209,6 +231,8 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">RAID5
         <br />3x12To 7200RPM</td>
       <td style="text-align:center">RAID5
+        <br />3x14To 7200RPM</td>
+      <td style="text-align:left">RAID5
         <br />3x14To 7200RPM</td>
     </tr>
     <tr>
@@ -230,6 +254,10 @@ description: Spécifications techniques des différentes box.
         <p>Actif</p>
         <p>Ventilateur</p>
       </td>
+      <td style="text-align:left">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Dimensions et poids</b>
@@ -250,9 +278,13 @@ description: Spécifications techniques des différentes box.
         <p>407 x 404 X 320 mm</p>
         <p>33 kg</p>
       </td>
+      <td style="text-align:left">
+        <p>407 x 404 X 320 mm</p>
+        <p>33 kg</p>
+      </td>
     </tr>
   </tbody>
-</table>## Box Wooxo Classic
+</table>## Box Wooxo Continuity / Classic
 
 <table>
   <thead>
@@ -266,6 +298,7 @@ description: Spécifications techniques des différentes box.
       <th style="text-align:center">Classic 10To</th>
       <th style="text-align:center">Classic 12To</th>
       <th style="text-align:center">Classic 14To</th>
+      <th style="text-align:left">Classic 16To</th>
     </tr>
   </thead>
   <tbody>
@@ -280,6 +313,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
       <td style="text-align:center">Intel&#xAE; Pentium&#xAE; G3420T</td>
+      <td style="text-align:left">Intel&#xAE; Pentium&#xAE; G3420T</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>M&#xE9;moire vive</b>
@@ -292,6 +326,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">4 Go DDR3</td>
       <td style="text-align:center">4 Go DDR3</td>
       <td style="text-align:center">4 Go DDR3</td>
+      <td style="text-align:left">4 Go DDR3</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>R&#xE9;seau</b>
@@ -304,6 +339,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
       <td style="text-align:center">2x 1GbE</td>
+      <td style="text-align:left">2x 1GbE</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Alimentation</b>
@@ -316,6 +352,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">Interne 180 watts</td>
       <td style="text-align:center">Interne 180 watts</td>
       <td style="text-align:center">Interne 180 watts</td>
+      <td style="text-align:left">Interne 180 watts</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume syst&#xE8;me</b>
@@ -328,6 +365,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 64Go</td>
       <td style="text-align:center">SSD MSATA 8Go</td>
+      <td style="text-align:left">SSD MSATA 8Go</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Volume donn&#xE9;es</b>
@@ -341,6 +379,8 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">RAID1 2x12To
         <br />7200RPM</td>
       <td style="text-align:center">RAID1 2x14To
+        <br />7200RPM</td>
+      <td style="text-align:left">RAID1 2x14To
         <br />7200RPM</td>
     </tr>
     <tr>
@@ -378,6 +418,10 @@ description: Spécifications techniques des différentes box.
         <p>Actif</p>
         <p>Ventilateur</p>
       </td>
+      <td style="text-align:left">
+        <p>Actif</p>
+        <p>Ventilateur</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Dimensions et poids</b>
@@ -390,6 +434,7 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
       <td style="text-align:center">270 x 53 x 187 mm 3kg</td>
+      <td style="text-align:left">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
 </table>## ​Appliances Atempo Backstone

@@ -8,7 +8,7 @@
   * [Pré-requis techniques](installation/pre-requis-techniques-1.md)
   * [Branchement / déploiement](installation/etape-1-installation-de-lappliance/README.md)
     * [Installation d'une appliance AllRoad](installation/etape-1-installation-de-lappliance/installation-dune-appliance-allroad.md)
-    * [Installation d'une appliance Classic](installation/etape-1-installation-de-lappliance/installation-dune-appliance-classic.md)
+    * [Installation d'une appliance Continuity ou Classic](installation/etape-1-installation-de-lappliance/installation-dune-appliance-classic.md)
   * [Activation YooBackup](installation/pre-requis-techniques.md)
   * [Installation des agents de sauvegarde](installation/installation-des-agents-de-sauvegarde/README.md)
     * [Guide de compatibilités](installation/installation-des-agents-de-sauvegarde/matrice-des-compatibilites.md)
