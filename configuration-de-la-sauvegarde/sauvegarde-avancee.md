@@ -31,7 +31,7 @@ Pour effectuer une sauvegarde en de base Microsoft Exchange :
 {% tab title="VMware ESX" %}
 Pour effectuer une sauvegarde de machines virtuelles VMware ESXi : 
 
-* Assurez vous que la version de VMware ESXi soit à minima en 5.5
+* Assurez vous que la version VMware ESXi soit a minima en 5.5
 * L'agent n'est pas nécessaire dans les machines virtuelles
 * Si la machine virtuelle est compatible avec l'option Changed Block Tracking \(CBT\) le connecteur pourra effectuer une sauvegarde incrémentale, dans le cas contraire il s'agira d'une sauvegarde différentielle
 * Le [connecteur](https://docs.yoobackup.fr/~/edit/drafts/-LZZqqmegTeaDH7RMDwR/installation/installation-des-agents-de-sauvegarde/configuration-connecteur-vmware) est à paramétrer directement dans l'interface, seuls l'IP, le login et le mot de passe du vSphere \(ou vCenter\) sont nécessaires pour configurer l'intégration du [connecteur](https://docs.yoobackup.fr/~/edit/drafts/-LZZqqmegTeaDH7RMDwR/installation/installation-des-agents-de-sauvegarde/configuration-connecteur-vmware)

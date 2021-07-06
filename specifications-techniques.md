@@ -157,7 +157,9 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:left">451 x 255 x 317 mm 23 kg</td>
     </tr>
   </tbody>
-</table>## Box Wooxo AllRoad Premium
+</table>
+
+## Box Wooxo AllRoad Premium
 
 <table>
   <thead>
@@ -284,7 +286,9 @@ description: Spécifications techniques des différentes box.
       </td>
     </tr>
   </tbody>
-</table>## Box Wooxo Continuity / Classic
+</table>
+
+## Box Wooxo Continuity / Classic
 
 <table>
   <thead>
@@ -437,7 +441,9 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:left">270 x 53 x 187 mm 3kg</td>
     </tr>
   </tbody>
-</table>## Box Wooxo Continuity Premium
+</table>
+
+## Box Wooxo Continuity Premium
 
 <table>
   <thead>
@@ -587,7 +593,9 @@ description: Spécifications techniques des différentes box.
       <td style="text-align:center">&#xC0; venir</td>
     </tr>
   </tbody>
-</table>## Appliances Atempo Backstone
+</table>
+
+## Appliances Atempo Backstone
 
 <table>
   <thead>
@@ -720,4 +728,6 @@ description: Spécifications techniques des différentes box.
     </tr>
   </tbody>
 </table>
+
+
 
