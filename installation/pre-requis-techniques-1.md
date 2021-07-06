@@ -7,7 +7,7 @@ Les appliances doivent être placées dans un environnement adapté au fonctionn
 * Ne pas exposer au soleil ou à toute flamme 
 * Ne pas exposer à tout liquide quel qu'il soit
 * Veiller à maintenir une température ambiante comprise entre 5 et 50 ˚C en fonctionnement.
-* Raccorder l'équipement via le plug à un réseau électrique aux normes en vigueur 
+* Raccorder l'équipement via l'onduleur \(si fourni\) à un réseau électrique aux normes en vigueur 
 
 En cas d'exposition à une flamme ou à tout liquide merci de vous rapprocher au plus tôt du Support Wooxo et ne pas intervenir en autonomie.
 
@@ -47,6 +47,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       <td style="text-align:left">m0.wooxo.fr</td>
       <td style="text-align:left">
         <p>6670 ou</p>
+        <p>443 ou</p>
         <p>80 ou</p>
         <p>21 ou</p>
         <p>123 ou</p>
@@ -77,9 +78,7 @@ L'appliance a besoin de communiquer avec l'infrastructure de Wooxo/Atempo pour r
       <td style="text-align:left">Serveur mise &#xE0; jour YooBackup secondaire</td>
     </tr>
   </tbody>
-</table>
-
-### Communication  appliance -&gt; agent de sauvegarde
+</table>### Communication  appliance -&gt; agent de sauvegarde
 
 La communication utilise le port 6680 en TCP.
 

@@ -1,13 +1,6 @@
 # Restauration OneKeyRestore
 
-Pour restaurer un volume, il faut disposer d'un nouveau poste de travail ainsi que de la clé USB OneKeyRestore fournit avec chaque appliance Yoobackup.
-
-Si vous n'avez pas la clé USB OneKey Restore, vous pouvez télécharger l'image ISO depuis l'interface d'administration de l'appliance YooBackup dans la section Téléchargements. Il est ensuite possible de graver l'image sur un CD ou bien d'utiliser un logiciel comme [Rufus ](https://rufus.ie/fr/)afin de créer une clé USB bootable.
-
-{% hint style="info" %}
-La restauration OneKey Restore peut s'effectuer sur n'importe quelle machine à condition que l'espace disque soit au moins aussi grand que celui de la machine source.   
-Attention : Même lorsque la restauration s'effectue sans erreur, elle ne garantie en aucun cas le bon fonctionnement lorsque le matériel est différent de celui de la machine source.
-{% endhint %}
+Pour restaurer un volume, il faut disposer d'un poste informatique ainsi que de la clé USB OneKeyRestore ou son ISO sur n'importe quel support bootable.
 
 #### _Pour lancer la restauration d'un volume_
 

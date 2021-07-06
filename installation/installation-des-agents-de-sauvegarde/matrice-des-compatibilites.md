@@ -4,20 +4,20 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* À partir de Windows Seven
+* À partir de Windows 7
 * À partir de Windows Server 2008 R2
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* À partir de MacOs 10.12
+* À partir de macOS 10.12
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
-* Debian 7 jusqu'à Debian 9
-* Ubuntu 10 jusqu'à Ubuntu 18
-* RedHat 6 jusqu'à RedHat 7 
-* Fedora 22 jusqu'à Fedora 28 
-* CentOs 6 jusqu'à CentOS 7
+* A partir de Debian 7
+* A partir d'Ubuntu 16.04
+* A partir de RedHat 7
+* A partir de Fedora 22
+* A partir de CentOS 6
 
 ![](../../.gitbook/assets/image%20%2832%29.png)
 
@@ -28,7 +28,7 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* À partir de Windows Seven
+* À partir de Windows 7
 * À partir de Windows Server 2008 R2
 
 ## Sauvegarde hyperviseur
@@ -42,7 +42,7 @@
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
 * VMware vSphere
-  * Version 4.1 à 6.7
+  * Version 5.5 à 6.7
   * Support de CBT 
   * Support de vCenter
 
@@ -50,7 +50,7 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* Microsoft SLQ Server
+* Microsoft SQL Server
   * Base complète en mode fichier à chaud
 * Microsoft Exchange
   * Base complète en mode fichier à chaud
