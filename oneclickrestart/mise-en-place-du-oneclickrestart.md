@@ -8,8 +8,10 @@ The OneClick Restart can be done at any time, to do so, go to the YooBackup inte
 * Click on the OnClick Restart tab
 * Click on "Activate OneClick Restart".
 
-{% hint style="warning" %}
-Make sure to put the same disks in the same job for OneClick Restart to be consistent and thus allow the machine to reboot.
+{% hint style="danger" %}
+In order to work properly, OneClick Restart requires a backup selection with a single virtual machine per job.
+
+Also make sure to select all required disks to ensure that the machine will be able to boot and work properly.
 {% endhint %}
 
 ![](../.gitbook/assets/one_click_restart_activate.gif)
