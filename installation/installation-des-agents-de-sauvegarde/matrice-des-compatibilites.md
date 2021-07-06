@@ -1,4 +1,4 @@
-# Guide de compatibilités
+# Guide de compatibilité
 
 ## Sauvegarde fichiers
 

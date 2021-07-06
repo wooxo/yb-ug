@@ -11,7 +11,7 @@
     * [Installation d'une appliance Continuity ou Classic](installation/etape-1-installation-de-lappliance/installation-dune-appliance-classic.md)
   * [Activation YooBackup](installation/pre-requis-techniques.md)
   * [Installation des agents de sauvegarde](installation/installation-des-agents-de-sauvegarde/README.md)
-    * [Guide de compatibilités](installation/installation-des-agents-de-sauvegarde/matrice-des-compatibilites.md)
+    * [Guide de compatibilité](installation/installation-des-agents-de-sauvegarde/matrice-des-compatibilites.md)
     * [Installation de l'agent Windows](installation/installation-des-agents-de-sauvegarde/installation-de-lagent-windows.md)
     * [Installation de l'agent MacOs](installation/installation-des-agents-de-sauvegarde/installation-de-lagent-macos.md)
     * [Installation de l'agent Linux](installation/installation-des-agents-de-sauvegarde/installation-de-lagent-linux.md)
