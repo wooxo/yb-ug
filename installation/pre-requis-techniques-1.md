@@ -90,7 +90,9 @@ The appliance needs to communicate with Wooxo/Atempo infrastructure to collect t
       <td style="text-align:left">YooBackup secondary update server</td>
     </tr>
   </tbody>
-</table>### Appliance Communication -&gt; Backup agent
+</table>
+
+### Appliance Communication -&gt; Backup agent
 
 The communication uses the 6670 port in TCP.
 
