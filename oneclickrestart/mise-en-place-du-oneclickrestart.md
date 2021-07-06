@@ -10,8 +10,8 @@ A présent, il nous reste simplement à cliquer sur "Activer le OneClick Restart
 
 * Sélectionnez dans le panneau de gauche \(affichant le parc de sauvegarde\) le jeu de sauvegarde que vous voulez configurer 
 
-{% hint style="warning" %}
-Veillez à bien mettre les mêmes disques dans le même job pour que OneClick Restart soit consistant et permette ainsi le [redémarrage de la machine](https://docs.yoobackup.fr/~/edit/drafts/-LZZqqmegTeaDH7RMDwR/oneclickrestart/redemarrage-dune-machine).
+{% hint style="danger" %}
+Afin que le OneClick Restart fonctionne correctement, il faut que la sélection de sauvegarde initiale ne comporte qu'une seule et unique machine virtuelle et qu'elle contienne tous les disques nécessaires au bon fonctionnement de la machine.
 {% endhint %}
 
 * Cliquez sur l'onglet OneClickRestart
