@@ -4,45 +4,45 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* Windows Seven up to Windows 10
-* Windows Server 2008 R2 up to Windows Server 2016
+* Windows 7 and earlier versions
+* Windows Server 2008 R2 and earlier versions
 
 ![](../../.gitbook/assets/image%20%282%29.png)
 
-* MacOs 10.12 up to macOS 10.14
+* MacOs 10.12 and earlier versions
 
 ![](../../.gitbook/assets/image%20%2819%29.png)
 
-* Debian 7 up to Debian 9
-* Ubuntu 10 up to Ubuntu 18
-* RedHat 6 up to RedHat 7 
-* Fedora 22 up to Fedora 28 
-* CentOs 6 up to CentOS 7
+* Debian 7 and earlier versions
+* Ubuntu 16.04 and earlier versions
+* RedHat 7 and earlier versions
+* Fedora 22 and earlier versions
+* CentOS 6 and earlier versions
 
 ![](../../.gitbook/assets/image%20%2821%29.png)
 
-* From DSM 6
+* DSM 6 and earlier versions
 * Architecture x86\_x64 & Armada370
 
 ## Volume Backup \(BMR\)
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* Windows Seven up to Windows 10
-* Windows Server 2008 R2 up to Windows Server 2016
+* Windows 7 and earlier versions
+* Windows Server 2008 R2 and earlier versions
 
 ## Hypervisor Backup
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
 * Hyper-V: 
-  * Windows Server 2008 R2 / Windows Server 2012 / Windows Server 2012 R2
+  * Windows Server 2008 R2 and earlier versions
   * No cluster support
 
 ![](../../.gitbook/assets/image%20%2829%29.png)
 
 * VMware vSphere
-  * Version 4.1 à 6.7
+  * Version 5.5 à 6.7
   * CBT Support
   * vCenter Support
 
@@ -50,7 +50,7 @@
 
 ![](../../.gitbook/assets/image%20%289%29.png)
 
-* Microsoft SLQ Server
+* Microsoft SQL Server
   * Full database in hot file mode
 * Microsoft Exchange
   * Full database in hot file mode
