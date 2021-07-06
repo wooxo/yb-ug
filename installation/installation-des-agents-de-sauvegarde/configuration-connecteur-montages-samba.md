@@ -1,6 +1,10 @@
-# Configuration connecteur montages SAMBA
+# Configuration connecteur partage SMB/CIFS
 
- Pour réaliser la sauvegarde de montage SAMBA, il n'est pas nécessaire de déployer un agent sur les éléments à sauvegarder.
+Pour réaliser la sauvegarde d'un partage réseau Windows \(SMB/CIFS\), aucune installation d'agent n'est requise. L'agent intégré dans l'appliance sera utilsié pour effectuer la sauvegarde.
+
+{% hint style="info" %}
+Seul le protocole SMB v2 est actuellement supporté. 
+{% endhint %}
 
 A l'activation de la solution, l'agent embarqué dans l'appliance est installé, il portera le même nom d'hôte que l'appliance.
 
