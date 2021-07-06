@@ -17,7 +17,7 @@
     * [Linux Agent Installation](installation/installation-des-agents-de-sauvegarde/installation-de-lagent-linux.md)
     * [Synology Agent Installation](installation/installation-des-agents-de-sauvegarde/installation-de-lagent-synology.md)
     * [VMware Connector Configuration](installation/installation-des-agents-de-sauvegarde/configuration-connecteur-vmware.md)
-    * [SAMBA Mounting Connector Configuration](installation/installation-des-agents-de-sauvegarde/configuration-connecteur-montages-samba.md)
+    * [SMB/CIFS share connector](installation/installation-des-agents-de-sauvegarde/configuration-connecteur-montages-samba.md)
 * [Backup Configuration](configuration-de-la-sauvegarde/README.md)
   * [Backup set Configuration](configuration-de-la-sauvegarde/configuration-dun-jeu-de-sauvegarde.md)
   * [Agents and Groups Management](configuration-de-la-sauvegarde/gestion-des-agents-et-des-groupes.md)

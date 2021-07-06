@@ -1,8 +1,12 @@
-# SAMBA Mounting Connector Configuration
+# SMB/CIFS share connector
 
- To perform a SAMBA backup configuration it is not necessary to deploy an agent on the hosts to be backed up.
+{% hint style="info" %}
+Only SMB v2 is supported
+{% endhint %}
 
-Upon the activation of the solution, the agent embeed in the appliance is installed, it will have the same hostname as the appliance.
+To perform a backup of a windows share \(SMB/CIFS\), no agent installation is required. The agent embedded in the appliance will be used to do the backup.
+
+Upon the activation of the solution, the agent embedded in the appliance is installed, it will have the same hostname as the appliance.
 
 If the agent is not deployed, you can go back to the administration and force its installation.
 
