@@ -1,6 +1,7 @@
 # Table of contents
 
 * [User Manual](README.md)
+* [Log4Shell vulnerability CVE-2021-44228](log4shell-vulnerability-cve-2021-44228.md)
 * [Helpdesk Contact](contacter-le-support.md)
 * [YooBackup Architecture and Operation](architecture-globale-yoobackup.md)
 * [Technical Specifications](specifications-techniques.md)
@@ -39,4 +40,3 @@
   * [Network Configuration](administration/configuration-reseau.md)
   * [Configuration of the Box to Box Replication](administration/configuration-de-la-replication.md)
   * [Technical Information](administration/technical-information.md)
-
