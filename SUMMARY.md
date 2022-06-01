@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Manuel d'utilisation](README.md)
+* [Manuel d'utilisation (déprécié)](README.md)
 * [Vulnérabilité Log4Shell CVE-2021-44228](vulnerabilite-log4shell-cve-2021-44228.md)
 * [Contacter le support](contacter-le-support.md)
 * [Architecture et fonctionnement YooBackup](architecture-globale-yoobackup.md)
