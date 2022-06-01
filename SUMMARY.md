@@ -33,7 +33,7 @@
   * [Concept](oneclickrestart/concept.md)
   * [Mise en place du OneClick Restart](oneclickrestart/mise-en-place-du-oneclickrestart.md)
   * [Redémarrage d'une machine](oneclickrestart/redemarrage-dune-machine.md)
-* [Utilisation gestion de parc](utilisation-gestion-de-parc.md)
+* [Utilisation gestion de parc (déprécié)](utilisation-gestion-de-parc.md)
 * [Utilisation serveur de fichiers (déprécié)](utilisation-serveur-de-fichiers.md)
 * [Administration](administration/README.md)
   * [Changement des identifiants d'administration](administration/changement-des-identifiants-dadministration.md)
