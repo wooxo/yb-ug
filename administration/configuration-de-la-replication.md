@@ -2,17 +2,16 @@
 
 La configuration de la réplication s'effectue dans l'onglet "Sauvegarde".
 
-![](../.gitbook/assets/menu-sauvegarde%20%286%29.gif)
+![](<../.gitbook/assets/menu-sauvegarde (6).gif>)
 
-1. Sélectionnez le jeu de sauvegarde concerné.
+1\. Sélectionnez le jeu de sauvegarde concerné.
 
 ![](../.gitbook/assets/recapitulatif-sauvegardes.PNG)
 
-2. Cliquez sur l'onglet "Paramétrage", puis sélectionnez "Paramètres de sauvegarde".
+2\. Cliquez sur l'onglet "Paramétrage", puis sélectionnez "Paramètres de sauvegarde".
 
 ![](../.gitbook/assets/parametrage-de-sauvegarde.PNG)
 
-3. Cochez la case "Externalisée".
+3\. Cochez la case "Externalisée".
 
 ![](../.gitbook/assets/profils-de-sauvegarde-replication.PNG)
-
