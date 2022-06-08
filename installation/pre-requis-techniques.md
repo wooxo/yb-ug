@@ -1,10 +1,10 @@
 # YooBackup Activation
 
-Now that the backup box is physically installed, we can configure the Yoobackup interface. To do this, follow the steps below.
+Now that the backup box is physically installed, we can configure the YooBackup interface. To do this, follow the steps below.
 
 ## Step 1 - Network Configuration Validation
 
-If it is the first time you log into the Yoobackup Web interface, you must validate the network configuration previously entered.
+If it is the first time you log into the YooBackup Web interface, you must validate the network configuration previously entered.
 
 1. Go to http://\<IP\_of\_your\_yoobackup\_box>/host-settings and enter your administrator password (config, by default). __ See image below the step 7.
 2. Select a hostname for the appliance (wooxo-desktop, by default).
