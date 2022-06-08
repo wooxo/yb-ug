@@ -1,6 +1,6 @@
 # Activation YooBackup
 
-Maintenant que le boitier de sauvegarde est installé physiquement, nous pouvons configurer l'interface Yoobackup. Pour cela, il vous suffit de suivre les étapes suivantes.
+Maintenant que le boitier de sauvegarde est installé physiquement, nous pouvons configurer l'interface YooBackup. Pour cela, il vous suffit de suivre les étapes suivantes.
 
 ## Étape 1 - Validation configuration réseau
 
