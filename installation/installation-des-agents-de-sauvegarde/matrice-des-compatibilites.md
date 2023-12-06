@@ -4,47 +4,51 @@
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-* Windows 7 and earlier versions
-* Windows Server 2008 R2 and earlier versions
+* Windows 10 / 11
+* Windows Server 2016 / 2019 / 2022
 
 ![](<../../.gitbook/assets/image (2).png>)
 
-* MacOs 10.12 and earlier versions
+* macOs 10.15 and earlier versions
 
 ![](<../../.gitbook/assets/image (19).png>)
 
-* Debian 7 and earlier versions
-* Ubuntu 16.04 and earlier versions
+* Debian 9 and earlier versions
+* Ubuntu 20.04 and earlier versions
 * RedHat 7 and earlier versions
-* Fedora 22 and earlier versions
-* CentOS 6 and earlier versions
+* Fedora 35 and earlier versions
+* CentOS 7 and earlier versions
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-* DSM 6 and earlier versions
+* DSM 6 only
 * Architecture x86\_x64 & Armada370
 
 ## Volume Backup (BMR)
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-* Windows 7 and earlier versions
-* Windows Server 2008 R2 and earlier versions
+* Windows 10 / 11
+* Windows Server 2016 / 2019 / 2022
+
+
 
 ## Hypervisor Backup
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-* Hyper-V:
-  * Windows Server 2008 R2 and earlier versions
-  * No cluster support
+*   Hyper-V:
+
+    * Windows Server 2016 / 2019 / 2022 (no support for clusters)
+
+
 
 ![](<../../.gitbook/assets/image (29).png>)
 
-* VMware vSphere
-  * Version 5.5 à 6.7
+* VMware vSphere&#x20;
+  * Version 6.5 / 6.7 / 7.0 / 8.0
   * CBT Support
-  * vCenter Support
+  * Supports both Standalone ESXi and vCenter
 
 ## Application Backup
 
@@ -56,7 +60,6 @@
   * Full database in hot file mode
 * Microsoft SharePoint
   * Full instance in hot file mode
-  * Require the VSS Writer declaration in advance
-* Oracle Database
-  * Version 11and higher
-  * Require the VSS Writer declaration in advance
+* Any other databases : backup database dump using Yoobackup
+
+**Note :** All applications backups require a correct and working configuration of VSS writers to work properly.
