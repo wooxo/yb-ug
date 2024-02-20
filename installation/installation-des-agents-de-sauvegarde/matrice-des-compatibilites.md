@@ -31,7 +31,7 @@
 * Windows 10 / 11
 * Windows Server 2016 / 2019 / 2022
 
-
+Note : Software RAID, dynamic disks and ReFS are not supported.
 
 ## Hypervisor Backup
 
