@@ -46,7 +46,7 @@ Note : Software RAID, dynamic disks and ReFS are not supported.
 ![](<../../.gitbook/assets/image (29).png>)
 
 * VMware vSphere&#x20;
-  * Version 6.5 / 6.7 / 7.0 / 8.0
+  * Version 6.5 / 6.7 / 7.0 / 8.0 (requires a paid license)
   * CBT Support
   * Supports both Standalone ESXi and vCenter
 
